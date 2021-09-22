@@ -1,0 +1,1473 @@
+[img1]Slide 1
+I love my Protein! 
+
+------------------------------
+[img2]Slide 2
+Genetics 
+Analysis & Principles 
+
+
+Sixth Edition 
+[img2]
+
+Chapter 12 
+Gene Transcription And RNA Modification 
+
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+[img2]
+------------------------------
+[img3]Slide 3
+GENE EXPRESSION 
+The Central Dogma 
+
+
+A Protein is a high molecular weight, nitrogen-containing organic compound of complex shape and composition.  
+It consists of one or more chains macromolecular subunits called  a polypeptide, which are made of smaller building blocks called amino acids. 
+A polypeptide is encoded by a gene. 
+The synthesis of functional proteins determines an organisms traits 
+Crick gave us the name  
+“The Central Dogma of Genetics”-  
+path from gene to trait 
+  
+Only one strand of the DNA molecule is transcribed into a molecule of RNA. 
+
+------------------------------
+Slide 4
+The Central Dogma of Genetics 
+
+
+DNA replication:  
+makes DNA copies that are transmitted from cell and from parent to offspring. 
+Chromosomal DNA: stores information in units called genes. 
+Transcription:  
+produces an RNA copy of gene. 
+Messenger RNA: a temporary copy of a gene that contains information to make a polypeptide. 
+Translation:  
+produces a polypeptide using the information in mRNA. 
+Polypeptide: becomes part of a functional protein that contributes to an organism’s traits. 
+[img4]
+------------------------------
+Slide 5
+Introduction 
+
+
+At the molecular level, a  
+gene 
+ is a segment of DNA used to make a functional product 
+either an RNA or a polypeptide 
+Transcription 
+ is the first step in gene expression 
+[img5]
+------------------------------
+Slide 6
+Transcription 
+
+
+Transcription literally means the act or process of making a copy 
+In genetics, the term refers to the copying of a DNA sequence into an RNA sequence  
+The structure of DNA is not altered as a result of this process 
+It can continue to store information 
+[img6]
+
+Associate with each  
+gene are Gene  
+Regulatory Elements, 
+which are involved  
+in transcriptional  
+regulation. 
+
+------------------------------
+Slide 7
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.2  Chemical reaction involved in the RNA polymerase-catalyzed synthesis of  
+	RNA on a  
+DNA template strand 
+[img7]
+
+Animation of RNA biosynthesis 
+
+------------------------------
+Slide 8
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.2  Chemical reaction involved in the RNA polymerase-catalyzed synthesis of  
+	RNA on a  
+DNA template strand 
+
+
+Animation of RNA biosynthesis 
+
+------------------------------
+Slide 9
+12.1 Overview of Transcription 
+
+
+A key concept is that DNA base sequences define the beginning and end of a gene and regulate the level of RNA synthesis 
+Another important concept is that proteins must recognize and act on DNA for transcription to occur 
+Gene expression is the overall process by which the information within a gene is used to produce a functional product which can, in concert with environmental factors, determine a trait 
+Common organization of a bacterial gene: 
+[img9]
+------------------------------
+Slide 10
+Organization of sequences of a bacterial gene and its mRNA transcript (2 of 3) 
+
+
+DNA: 
+Regulatory sequences:  
+site for the binding of regulatory proteins; the role of regulatory proteins is to influence the rate of transcription. Regulatory sequences can be found in a variety of locations. 
+Promoter:  
+site for RNA polymerase binding; signals the beginning of transcription. 
+Terminator:  
+signals the end of transcription. 
+mRNA 
+Ribosome-binding site:  
+site for ribosome binding; translation begins near this site in the mRNA. In eukaryotes, the ribosome scans the mRNA for a start codon. 
+[img10]
+------------------------------
+Slide 11
+Organization of sequences of a bacterial gene and its mRNA transcript 
+
+
+Start codon 
+: specifies the first amino acid in a polypeptide sequence, usually a formylmethionine (in bacteria) or a methionine (in eukaryotes). 
+Codons:  
+3 nucleotide sequences within the mRNA that specify particular amino acids. The sequence of codons within mRNA determines the sequence of amino acids within a polypeptide. 
+Stop codon:  
+specifies the end of polypeptide synthesis. 
+Bacterial mRNA may be  
+polycistronic 
+, which means it encodes two or more polypeptides. 
+[img11]
+------------------------------
+Slide 12
+Gene Expression Requires Base Sequences 
+
+
+The DNA strand that is actually transcribed (used as the template) is termed the  
+template strand 
+The RNA transcript is complementary to the template strand 
+The opposite strand is called the  
+coding strand  
+or the  
+sense strand 
+ as well as the  
+nontemplate 
+ strand 
+The base sequence is identical to the RNA transcript 
+Except for the substitution of uracil in RNA for thymine in DNA 
+[img12]
+------------------------------
+Slide 13
+Gene Expression Requires Base Sequences 
+
+
+Transcription factors  
+recognize the promoter and regulatory sequences to control transcription 
+
+------------------------------
+Slide 14
+Gene Expression Requires Base Sequences 
+
+
+mRNA sequences such as the  
+ribosomal-binding site  
+and  
+codons 
+ direct  
+translation 
+
+------------------------------
+Slide 15
+Stages of Transcription (1 of 3) 
+
+
+Transcription occurs in three stages 
+Initiation 
+Elongation 
+Termination 
+These steps involve protein-DNA interactions 
+Proteins such as RNA polymerase interact with DNA sequences 
+[img15]
+------------------------------
+[img16]Slide 16
+Stages of Transcription (3 of 3) 
+
+
+Initiation:  
+The promoter functions as a recognition site for transcription factors (not shown). The transcription factors enable RNA polymerase to bind to the promoter. Following binding, the DNA is denatured into a bubble known as the open complex. 
+Elongation/synthesis of the RNA transcript:  
+RNA polymerase slides along the DNA in an open complex to synthesize RNA. 
+Termination:  
+A terminator is reached that causes RNA polymerase and the RNA transcript to dissociate from the DNA. 
+
+------------------------------
+Slide 17
+There are four different types of RNA molecules, each encoded by its own type of gene 
+
+
+mRNA  
+(messenger RNA) encodes the amino acid sequence of a polypeptide. 
+tRNA (transfer RNA) brings amino acids to ribosomes during translation. 
+rRNA (ribosomal RNA), with ribosomal proteins, makes up the ribosome. 
+Other forms of non-coding RNA: microRNA (miRNA), short non-coding RNA (snRNA), ;long non-coding RNA and small nucleolar RNA (snoRNA). 
+
+------------------------------
+Slide 18
+RNA Transcripts have Different Functions (1 of 2) 
+
+
+Once they are made, RNA transcripts play different functional roles 
+Well over 90% of all genes are structural genes which are transcribed into mRNA 
+Final functional products are polypeptides 
+The other RNA molecules in Table 12.1 are never translated 
+Final functional products are RNA molecules 
+
+------------------------------
+Slide 19
+RNA Transcripts have Different Functions (2 of 2) 
+
+
+The RNA transcripts from nonstructural genes are not translated 
+They do have various important cellular functions 
+They can still confer traits 
+In some cases, the RNA transcript becomes part of a complex that contains protein subunits 
+For example 
+Ribosomes 
+Spliceosomes 
+Signal recognition particles 
+Telomerase 
+
+------------------------------
+Slide 20
+12.2 Transcription in Bacteria 
+
+
+Our molecular understanding of gene transcription came from studies involving bacteria and bacteriophages 
+Indeed, much of our knowledge comes from studies of a single bacterium 
+E. coli 
+, of course 
+In this section we will examine the three steps of transcription as they occur in bacteria 
+
+------------------------------
+Slide 21
+Promoters 
+
+
+Promoters 
+ are DNA sequences that “promote” gene expression 
+More precisely, they direct the exact location for the initiation of transcription 
+Promoters are typically located just upstream of the site where transcription of a gene actually begins 
+The bases in a promoter sequence are numbered in relation to the transcription start site 
+[img21]
+------------------------------
+Slide 22
+Examples of -35 and -10 Sequences in  
+Promotors 
+  
+[img22]
+------------------------------
+Slide 23
+Initiation of Bacterial Transcription (1 of 2) 
+
+
+RNA polymerase  
+is the enzyme that catalyzes the synthesis of RNA 
+In E. coli, the RNA polymerase  
+holoenzyme 
+ is composed of 
+Core enzyme 
+Five subunits =  
+α 
+2 
+ββ 
+’ 
+ 
+Sigma factor 
+One subunit =  
+σ 
+These subunits play distinct functional roles 
+[img23]
+------------------------------
+Slide 24
+Initiation of Bacterial Transcription 
+
+
+The RNA polymerase  
+holoenzyme 
+ binds loosely to the DNA 
+It then scans along the DNA, until it encounters a promoter region 
+When it does, the sigma factor recognizes both the –35 and –10 regions 
+A region within the sigma factor that contains a  
+helix-turn-helix structure  
+is involved in a tighter binding to the DNA 
+[img24]
+------------------------------
+Slide 25
+Binding of Sigma Factor Protein to DNA Double Helix 
+[img25]
+------------------------------
+Slide 26
+Transcription Initiation 
+
+
+The binding of the RNA polymerase to the promoter forms the  
+closed complex 
+Then, the  
+open complex  
+is formed when the TATAAT box in the -10 region is unwound 
+A-T bonds are more easily separated 
+A short RNA strand is made within the open complex 
+The sigma factor is released at this point 
+This marks the end of initiation 
+The core enzyme now slides down the DNA to synthesize an RNA strand 
+This is known as the elongation phase 
+[img26]
+------------------------------
+Slide 27
+The Initiation Stage of Transcription in Bacteria 
+[img27]
+------------------------------
+Slide 28
+Elongation in Bacterial Transcription (1 of 2) 
+
+
+The RNA transcript is synthesized during the elongation stage 
+The DNA strand used as a template for RNA synthesis is termed the  
+template 
+ or  
+antisense strand 
+The opposite DNA strand is called the  
+coding strand 
+It has the same base sequence as the RNA transcript 
+Except that T in DNA corresponds to U in RNA 
+[img28]
+------------------------------
+Slide 29
+Elongation in Bacterial Transcription (2 of 2) 
+
+
+The open complex formed by the action of RNA polymerase is about 17 bases long 
+Behind the open complex, the DNA rewinds back into a double helix 
+On average, the rate of RNA synthesis is about 43 nucleotides per second! 
+Figure 12.8 depicts the key points in the synthesis of an RNA transcript  
+[img29]
+------------------------------
+Slide 30
+Synthesis of the RNA transcript 
+
+
+Key Points: 
+RNA polymerase slides along the DNA, creating an open complex as it moves. 
+The DNA strand known as the template strand is used to make a complementary copy of RNA, resulting in an RNA-DNA hybrid. 
+RNA polymerase moves along the template strand in a 3’ to 5’ direction, and RNA is synthesized in a 5’ to 3’ direction using nucleoside triphosphates as precursors. Pyrophosphate is released (not shown). 
+The complementary rule is the same as the AT/GC rule except that U is substituted for T in the RNA. 
+
+------------------------------
+Slide 31
+Both strands of Genomic DNA are used as Template Strand for Different Genes 
+[img31]
+------------------------------
+Slide 32
+Termination of Bacterial Transcription 
+
+
+Termination 
+ is the end of RNA synthesis 
+It occurs when the short RNA-DNA hybrid of the open complex is forced to separate 
+This releases the newly made RNA as well as the RNA polymerase 
+E. coli has two different mechanisms for termination 
+rho-dependent termination 
+Requires a protein known as  
+r 
+ (rho) 
+rho-independent termination 
+Does not require  
+r 
+
+------------------------------
+Slide 33
+rho Dependent Termination 
+[img33]
+------------------------------
+Slide 34
+rho Independent Termination 
+
+
+ρ 
+-independent termination  
+is facilitated by two sequences in the RNA 
+A uracil-rich sequence located at the 3’ end of the RNA 
+A stem-loop structure upstream of the uracil-rich sequence 
+[img34][img34]
+------------------------------
+Slide 35
+12.3 Transcription in Eukaryotes 
+
+
+Many of the basic features of gene transcription are very similar in bacteria and eukaryotes 
+However, gene transcription in eukaryotes is more complex 
+Larger, more complex cells (organelles) 
+Added cellular complexity means more genes that encode proteins are required  
+Multicellularity 
+ adds another level of regulation 
+express genes only in the correct cells at the proper time 
+
+------------------------------
+Slide 36
+Properties of Eukaryotic RNA Polymerases 
+
+
+
+
+Prokaryotes have one type of  
+polymerase that is used to transcribe structural genes and the 
+genes for tRNA and rRNA.  Below, is a 3D image of RNA polymerase from yeast. 
+[img36]
+------------------------------
+Slide 37
+Eukaryotic RNA Polymerases (2 of 2) 
+
+
+All three are very similar structurally and are composed of many subunits 
+There is also a remarkable similarity between the bacterial RNA pol and its eukaryotic counterparts 
+[img37]
+
+( 
+a) Structure of a bacterial RNA polymerase 
+Courtesy of Dr. Seth Darst 
+[img37]
+
+Structure of a eukaryotic RNA polymerase II (yeast) 
+Image of PDB ID 1K83 (Bushnell, D.A., Cramer, P.,  
+Komberg 
+, R.D. (2002) Structural basis of transcription: alpha-amanitin-RNA polymerase II cocrystal at 2.8 Å resolution. PNAS 99: (1218) created using  
+ProteinWorkshop 
+, a product of the RCSB PCB, and built using the Molecular Biology Toolkit developed by John Moreland and Apostol  
+Gramada 
+ (mbt.sdsc.edu). 
+The MBT is financed by grant GM63208 
+
+------------------------------
+Slide 38
+Structure of RNA Polymerase (3 of 3)  
+[img38]
+
+(b) Schematic structure of RNA polymerase 
+
+------------------------------
+Slide 39
+A Common Pattern of the Promoter for Protein Encoding Genes 
+
+
+The core promoter is relatively short 
+It consists of the TATA box and transcriptional start site 
+Important in determining the precise start point for transcription 
+The core promoter by itself produces a low level of transcription 
+This is termed  
+basal transcription 
+
+------------------------------
+Slide 40
+Core Promoter elements (modules) for a eukaryotic protein-coding gene transcribed by RNA pol II 
+
+
+
+
+DNA 
+
+
+
+
+
+
+
+
+RNA transcribed 
+
+
+Initiation of  
+transcription 
+
+
+
+
+
+
+
+
+
+
+GC         
+GC 
+            CAAT                   TATA 
+
+
+-120       -100         -80         -60             -30            -10      +1 
+
+
+Goldberg- 
+Hogness 
+ box 
+or TATA box (TATAAAA) 
+
+
+
+
+
+
+
+
+
+
+Upstream reporter 
+elements 
+
+
+Cis-acting sequence elements: 
+They affect activity of a gene on the same molecule 
+
+
+GC box (GGGCGG) 
+CAAT box (CCAATCT) 
+
+------------------------------
+Slide 41
+Sequences of Eukaryotic Structural Genes (1 of 2) 
+
+
+Eukaryotic promoter sequences are more variable and often more complex than those of bacteria 
+Most eukaryotic genes have two features 
+Core Promoter 
+typically sequence TATAAA  
+called TATA box  
+transcriptional start site 
+Regulatory elements 
+Refer to Figure 12.13 
+
+------------------------------
+Slide 42
+Sequences of Eukaryotic Structural Genes (2 of 2) 
+
+
+Factors that control gene expression can be divided into two types, based on their “location” 
+cis-acting elements 
+DNA sequences that exert their effect only over a particular gene 
+Example: TATA box, enhancers and silencers 
+trans-acting elements 
+Regulatory proteins that bind to such DNA sequences 
+
+------------------------------
+Slide 43
+A Common Pattern of the Promoter for Protein Encoding Genes (2 of 2) 
+[img43]
+------------------------------
+Slide 44
+TABLE 12.1 
+Proteins Needed for Transcription via the Core Promoter of Eukaryotic Protein-Encoding Genes 
+RNA polymerase II:  
+The enzyme that catalyses the linkage of nucleotides in the 5′ to 3′ direction, using DNA as a template. Most eukaryotic RNA polymerase II proteins are composed of 12 subunits. The two largest subunits are structurally similar to the β and β′ subunits found in  
+E. coli 
+ RNA polymerase. 
+[img44]
+
+General Transcription Factors  
+For  
+Basal level of transcription 
+
+
+Initiation 
+complex 
+
+------------------------------
+Slide 45
+Table 12.1 (4 of 4) 
+
+
+Mediator:  
+A  
+multisubunit 
+ complex that mediates the effects of regulatory transcription factors on the function of RNA polymerase II. Though mediator typically has certain core subunits, many of its subunits vary, depending on the cell type and environmental conditions. The ability of mediator to affect the function of RNA polymerase II is thought to occur via the CTD of RNA polymerase II. Mediator can influence the ability of TFIIH to phosphorylate CTD, and subunits within mediator itself have the ability to phosphorylate CTD. Because CTD phosphorylation is needed to release RNA polymerase II from TFIIB, mediator plays a key role in the ability of RNA polymerase II to switch from the initiation to the elongation stage of transcription. 
+[img45]
+------------------------------
+Slide 46
+Accurate initiation of Transcription of a protein-coding gene involves the assembly of RNA pol II and a number of other proteins called  
+basal (General) transcription factors 
+ (TFs) 
+
+
+All three eukaryotic polymerases require TFs. 
+The TFs and their respective RNA polymerase come together to form an  
+initiation complex. 
+The initiation complex is sufficient for only a low level of transcription. 
+For higher levels of transcription, other transcription factors called  
+activators 
+ will control which promoters are transcribed actively. 
+Activators 
+ bind to regulator elements in the DNA called  
+enhancers 
+. 
+Enhancers  
+are needed for maximum transcription. 
+
+------------------------------
+Slide 47
+Factors Affecting Transcription 
+
+
+Regulatory elements are short DNA sequences that affect the binding of RNA polymerase to the promoter  
+Transcription factors (proteins) bind to these elements and influence the rate of transcription 
+They are two types of regulatory elements 
+Enhancers 
+Stimulate transcription 
+Silencers 
+Inhibit transcription 
+They vary widely in their locations but are often found in the  
+	–50 to –100 region 
+
+------------------------------
+Slide 48
+Enhancers 
+
+
+Enhancer 
+ elements (DNA sequences) are found singly or in multiple copies. 
+Function in either orientation, either upstream, downstream or in the gene itself.  In most cases they are located upstream. 
+Can be thousands of base pairs from the gene. 
+Function in Combinations with other enhancer elements. 
+The opposite to enhancers are  
+silencers. 
+[img48]
+------------------------------
+Slide 49
+Silencers 
+
+
+Silencer 
+ elements (DNA sequence) have similar properties to enhancers, except that they repress gene activation. 
+Are much less common than enhancers. 
+The transcription factors that bind them are called  
+repressors. 
+[img49]
+------------------------------
+Slide 50
+RNA Polymerase II and its Transcription Factors 
+
+
+Three categories of proteins are required for basal transcription to occur at the promoter 
+RNA polymerase II 
+Five different proteins called  
+general transcription factors (GTFs) 
+A protein complex called  
+mediator 
+Figure 12.14 shows the assembly of transcription factors and RNA polymerase II at the TATA box 
+[img50]
+------------------------------
+Slide 51
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.7  Events that may occur during the initiation of transcription catalyzed by RNA  
+	polymerase II 
+[img51]
+
+TATA-binding protein (TBP) 
+[img51]
+
+
+
+Enhancers 
+
+
+Mediators 
+
+------------------------------
+Slide 52
+RNA Polymerase II and its Transcription Factors 
+
+
+Basal transcription apparatus 
+RNA pol II + the five GTFs 
+The third component required for transcription is a large protein complex termed  
+mediator 
+It mediates interactions between RNA pol II and various regulatory transcription factors that bind enhancers or silencers 
+Its subunit composition is complex and variable 
+Core subunits partially wraps around RNA pol II 
+
+------------------------------
+Slide 53
+RNA Polymerase II and its Transcription Factors 
+
+
+Mediator may phosphorylate the CTD of RNA polymerase II and it may regulate the ability of TFIIH to phosphorylate the CTD 
+Therefore it plays a pivotal role in the switch between transcriptional initiation and elongation 
+[img53]
+------------------------------
+Slide 54
+FYI: Presentation of 
+the complexity of Enhancers 
+[img54]
+------------------------------
+Slide 55
+RNA Pol II Transcriptional Termination 
+
+
+Pre-mRNAs are modified by cleavage near their 3’ end with subsequent attachment of a string of adenines 
+Transcription terminates 500 to 2000 nucleotides downstream from the  
+polyA 
+ signal 
+There are two models for termination 
+Further research is needed to determine if either, or both are correct 
+[img55]
+------------------------------
+Slide 56
+12.4 RNA Modification 
+
+
+Analysis of bacterial genes in the 1960s and 1970 revealed the following: 
+The sequence of DNA in the coding strand corresponds to the sequence of nucleotides in the mRNA 
+The sequence of codons in the mRNA provides the instructions for the sequence of amino acids in the polypeptide 
+This is termed the  
+colinearity 
+ of gene expression 
+Analysis of eukaryotic structural genes in the late 1970s revealed that they are not always colinear with their functional mRNAs 
+
+------------------------------
+Slide 57
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+General structure of mRNA found in both prokaryotic and eukaryotic cells 
+[img57]
+
+Mature, biologically active mRNA 
+
+------------------------------
+Slide 58
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Processes for synthesis of functional mRNA in prokaryotes and eukaryotes 
+[img58]
+
+Modification of Eukaryotic RNA transcripts 
+
+
+
+
+
+
+
+------------------------------
+Slide 59
+RNA Modification (2 of 2) 
+
+
+In Eukaryotes, RNA transcripts can be modified in several ways 
+For example 
+Processing of rRNA and tRNA transcripts to smaller functional pieces 
+5’ Capping and 3’  
+polyA 
+ tailing of mRNA transcripts 
+RNA Splicing 
+[img59]
+------------------------------
+Slide 60
+Eukaryotic Pre-mRNAs have a 5′ Cap and a 3′ Tail 
+
+
+Most mature mRNAs have a 7-methylguanosine covalently attached at their 5’ end 
+This event is known as  
+capping 
+Capping occurs as the pre-mRNA is being synthesized by RNA pol II 
+Usually when the transcript is only 20 to 25 bases long 
+As shown in Figure 12.23, capping is a three-step process 
+
+------------------------------
+Slide 61
+Attachment of a 7-Methylguanosine cap to the 5’ end of mRNA (1 of 2) 
+[img61]
+------------------------------
+Slide 62
+Attachment of a 7-Methylguanosine cap to the 5’ end of mRNA (2 of 2) 
+[img62]
+------------------------------
+Slide 63
+The Role of the 5’ Cap 
+
+
+The 7-methylguanosine cap structure is recognized by cap-binding proteins 
+Cap-binding proteins play roles in the 
+Movement of some RNAs into the cytoplasm 
+Early stages of translation 
+Splicing of introns 
+
+------------------------------
+Slide 64
+Polyadenylation 
+  
+
+
+Most mature mRNAs have a string of adenine nucleotides at their 3’ ends 
+This is termed the  
+polyA 
+ tail 
+The  
+polyA 
+ tail is not encoded in the gene sequence 
+It is added enzymatically after the gene is completely transcribed 
+The attachment of the  
+polyA 
+ tail is shown in Figure 12.24 
+
+------------------------------
+Slide 65
+Polyadenylation 
+ Signal Sequence  
+[img65]
+------------------------------
+Slide 66
+Poly (A) tail addition to 3’ end of mRNA 
+
+
+50 to 250 adenine nucleotides are added to 3' end. 
+No template is used for addition of poly(A) tail. 
+Poly (A) tail is found on most mRNA, however, histone mRNA does not have the tail. 
+The poly(A) tail signals that this is the 3' end and maintains stability of mRNA by protecting it from degradation. 
+
+------------------------------
+Slide 67
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.11  Diagram of the 3 
+ 
+ end formation of mRNA and the addition of the poly(A) tail  
+[img67][img67]
+
+Purpose of slide is for you to know that poly A is not 
+encoded by the gene. You need to know about the signal 
+for poly A addition, but not the complex. 
+
+------------------------------
+Slide 68
+Splicing: Processing of mRNA to mature mRNA by Removal of introns 
+
+
+Most protein-coding  genes have non-amino acid coding sequences called introns (intervening sequence) found between exons (expressed sequences) 
+Exons include the 5' and 3' untranslated regions (UTRs) as well as the  amino acid-coding portions. 
+Introns are removed in a process called  
+mRNA splicing 
+Exons are connected together or spliced 
+It is a common genetic phenomenon in eukaryotes 
+Occurs occasionally in bacteria as well 
+
+------------------------------
+Slide 69
+RNA Processing 
+
+
+Many nonstructural genes are initially transcribed as a large RNA 
+This large RNA transcript is enzymatically cleaved into smaller functional pieces 
+[img69]
+------------------------------
+Slide 70
+Different Splicing Mechanisms Remove Introns 
+
+
+Three different splicing mechanisms have been identified 
+Group I intron splicing 
+Group II intron splicing 
+Spliceosome 
+All three cases involve  
+Removal of the intron RNA  
+Linkage of the exon RNA by a  
+phosphodiester 
+ bond 
+
+------------------------------
+Slide 71
+Self-Splicing 
+
+
+Splicing among group I and II introns is termed  
+self-splicing 
+Splicing does not require the aid of enzymes 
+Instead the RNA itself functions as its own ribozyme 
+Group I and II differ in the way that the intron is removed and the exons connected 
+Refer to Figure 12.18 
+Group I and II self-splicing can occur in vitro without the additional proteins 
+However, in vivo, proteins known as  
+maturases 
+ often enhance the rate of splicing 
+
+------------------------------
+Slide 72
+Mechanisms of RNA Splicing (1 of 3)  
+
+
+Group I and II are self-splicing 
+Group I splicing involves binding of a free  
+guanosine 
+ to a site within the intron- leads to cleavage at 3’ end of exon 1 
+Then bond between different nucleotide in the intron and the 5’ end of exon 2 is cleaved 
+The 3’ end of exon 1 then forms a covalent bond with the 5’ end of exon 
+Group II self splicing is similar except that the 2’ OH group in adenosine begins catalytic process. 
+Pre-mRNA splicing requires the aid of structure known as  
+spliceosome 
+
+------------------------------
+Slide 73
+Mechanisms of RNA Splicing (2 of 3)  
+[img73]
+
+(a) Group I (self-splicing) 
+[img73]
+
+(b) Group II (self-splicing) 
+
+------------------------------
+Slide 74
+Mechanisms of RNA Splicing (3 of 3)  
+[img74]
+
+(c) Pre-mRNA (splicing via a  
+spliceosome 
+) 
+
+------------------------------
+Slide 75
+Pre-mRNA Splicing Occurs by the Action of a  
+Spliceosome 
+ (1 of 2) 
+
+
+In eukaryotes, the transcription of structural genes produces a long transcript known as a  
+pre-mRNA 
+This RNA is altered by splicing and other modifications, before it leaves the nucleus 
+Splicing requires the aid of a multicomponent structure known as the  
+spliceosome 
+It is composed of several subunits known as  
+snRNPs 
+ (pronounced “ 
+snurps 
+”) 
+Each  
+snRNP 
+ contains  
+s 
+mall  
+n 
+uclear  
+RN 
+A and a set of  
+p 
+roteins 
+[img75]
+------------------------------
+Slide 76
+Pre-mRNA Splicing Occurs by the Action of a  
+Spliceosome 
+ (2 of 2) 
+
+
+The subunits of a  
+spliceosome 
+ carry out several functions 
+Bind to an intron sequence and precisely recognize the intron-exon boundaries 
+Hold the pre-mRNA in the correct configuration 
+Catalyze the chemical reactions that remove introns and covalently link exons 
+
+------------------------------
+Slide 77
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Details of intron removal from a pre-mRNA molecule 
+[img77]
+
+RNA 
+
+
+
+
+mRNA 
+Splicing  occurs in 
+nucleus 
+
+------------------------------
+Slide 78
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.13  Model for intron removal by the  
+spliceosome 
+[img78]
+
+Active spliceosome 
+
+
+snRNP = 
+s 
+mall  
+n 
+uclear 
+r 
+ibo 
+n 
+ucleoprotein 
+P 
+articles 
+Do not need to know 
+Various proteins and  
+Order of binding 
+
+
+Dscam 
+ Alternative Splices 
+
+------------------------------
+Slide 79
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.13  Model for intron removal by the  
+spliceosome 
+
+
+Animation of RNA splicing 
+
+------------------------------
+Slide 80
+RNA Processing (2 of 2)  
+
+
+Transfer RNAs are also made as large precursors 
+These have to be cleaved at both the 5’ and 3’ ends to produce mature, functional  
+tRNAs 
+Cleaved by  
+exonuclease 
+ and endonuclease 
+exonucleases 
+  
+cleave a covalent bond between two nucleotides at one end of a strand 
+endonucleases 
+ can cleave bonds within a strand 
+Figure 12.17 shows the trimming of a precursor  
+tRNA 
+  
+Interestingly, the cleavage occurs differently at the 5’ end and the 3’ end 
+
+------------------------------
+Slide 81
+Processing of a Precursor tRNA Molecule 
+[img81]
+------------------------------
+Slide 82
+Processing of Ribosomal RNA in Eukaryotes 
+[img82]
+------------------------------
+Slide 83
+Consensus Sequences for Pre-mRNA Splicing  
+
+
+Intron RNA is defined by particular sequences within the intron and at the intron-exon boundaries 
+Figure 12.19 below 
+The pre-mRNA splicing mechanism is shown in Figure 12.2 
+[img83]
+------------------------------
+Slide 84
+Splicing Pre-mRNA via  
+Spliceosome 
+ (1 of 2) 
+[img84]
+------------------------------
+Slide 85
+Splicing Pre-mRNA via  
+Spliceosome 
+ (2 of 2) 
+[img85]
+------------------------------
+Slide 86
+Alternative Splicing (1 of 3) 
+
+
+Alternative splicing allows different polypeptides to be made from the same gene 
+One benefit of genes with introns is a phenomenon called  
+alternative splicing 
+A pre-mRNA with multiple introns can be spliced in different ways 
+This will generate mature mRNAs with different combinations of exons 
+Two (or more) polypeptides can be derived from a single gene 
+This allows an organism to carry fewer genes in its genome 
+
+------------------------------
+Slide 87
+Alternative Splicing (2 of 3) 
+
+
+This variation in splicing can occur in different cell types or during different stages of development 
+Degree of splicing and alternative splicing varies greatly among different species 
+Baker’s yeast:  
+~ 6300 genes, ~ 300 encode pre-mRNAs that are spliced  
+only a few have been shown to be alternatively spliced 
+Humans: ~  
+22,000 protein-encoding genes, most contain one or more introns 
+Estimates suggest ~ 70% are alternatively spliced 
+DSCAM (21q22.2, Down Syndrome Cell Adhesion Molecule) holds the record for number of isoforms approximately 38,016 isoforms 
+
+------------------------------
+Slide 88
+Alternative Splicing (3 of 3) 
+
+
+Constitutive exons  
+are always found in the mature mRNA from all cell types 
+encode polypeptide segments that are necessary for its general structure and function 
+Other exons, called  
+alternative exons  
+vary from one cell type to another 
+subtly change the function of the protein to meet the needs of the cell type in which it is found 
+Regulated by  
+splicing factors 
+Such as  
+SR proteins 
+
+------------------------------
+Slide 89
+Alternative Ways a Pre-mRNA can be Spliced 
+[img89]
+------------------------------
+Slide 90
+Roles of Splicing Factors during Alternative Splicing (1 of 2) 
+[img90]
+
+(a) Splicing repressors 
+
+------------------------------
+Slide 91
+Roles of Splicing Factors during Alternative Splicing (2 of 2) 
+[img91]
+
+(b) Splicing enhancers 
+
+------------------------------
+Slide 92
+RNA Editing 
+
+
+RNA editing involves the posttranscriptional insertion or deletion of nucleotides or the conversion of one base to another. 
+First discovered in the 1980s in the protozoa called trypanosome.  Affects some mitochondrial mRNAs as well. 
+Found that the DNA sequences did not match the mRNA sequences they were encoding. 
+Since this discovery, other types of RNA editing have been found in other organisms including mammals. 
+In mammals, RNA editing (C-to-U) results in the tissue-specific generation of a stop codon for the apolipoprotein B,  A-to-G RNA editing in the glutamate receptor and pyrimidine editing in a number of tRNAs. 
+
+------------------------------
+Slide 93
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.15  Comparison of the DNA sequences of the cytochrome oxidase subunit III  
+	gene in the protozoans  
+Trypanosome brucei (TB), Crithridia fasiculata (Cf),  
+	 
+and 
+ Leishmania tarentolae (Lt), 
+ aligned with the conserved mRNA for  
+Tb 
+[img93]
+
+Lower case  
+u 
+s are the U nucleotides added by RNA  
+editing.  The  yellow Ts in the template are removed 
+during editing. 
+
+------------------------------
+Slide 94
+RNA Editing (1 of 2)  
+
+
+Change in the nucleotide sequence of an RNA 
+Can involve addition or deletion of particular bases 
+Can also occur through conversion of a base 
+First discovered in trypanosomes 
+Now known to occur in many organisms 
+Refer to Table 12.5 for a list of examples 
+
+------------------------------
+Slide 95
+RNA Editing (2 of 2) 
+
+
+RNA editing can occur by changing one type of base to another 
+Deamination converts RNA nucleotides to new forms 
+[img95]
+------------------------------
+Slide 96
+Table 12.4 Examples of RNA Editing 
+
+
+Table 12.4 
+Examples of RNA Editing 
+
+------------------------------
+Slide 97
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.17  Composition of whole ribosomes and of ribosomal subunits in mammalian  
+	cells 
+[img97]
+
+Eukaryote ribosome: larger and more complex. 
+
+
+Prokaryote Ribosome:  Two subunits  
+50S  = 34 proteins + 23S rRNA = 5S rRNA 
+30S = 20 proteins + 16S rRNA 
+
+------------------------------
+Slide 98
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+  rRNA genes and rRNA production in  
+E. coli 
+[img98]
+
+Organization 
+of E. coli 
+rRNA 
+transcriptional 
+unit. 
+
+------------------------------
+Slide 99
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+  rRNA genes and rRNA production in eukaryotes 
+[img99]
+
+Eukaryotic ribosomal 
+DNA repeat unit. 
+Transcription occurs  
+in nucleolus by RNA 
+polymerase I. 
+ITS = Internal transcribed 
+          Spacer 
+ETS = External transcribed 
+           Spacer 
+NTS=  
+Nontranscribed 
+ spacer 
+
+------------------------------
+Slide 100
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Transcription factors involved in the initiation of human rDNA transcription  
+	by RNA polymerase I 
+[img100]
+------------------------------
+Slide 101
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 5.14  Self-splicing reaction for the group I intron in  
+Tetrahymena 
+ pre-rRNA 
+[img101]
+
+Protein independent  
+splicing of pre-rRNA 
+and some mRNA/tRNA  
+is seen in fungi,  
+some insects and  
+bacteriophages.  
+Also found in mitochondria and  
+Chloroplast organelles of some plants 
+
+
+Introns 
+have been 
+found in the 
+pre-rRNA  
+of a few species. 
+
+
+Group I introns 
+
+------------------------------
+Slide 102
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+ Fig. 6.9 a Cloverleaf structure of yeast alanine tRNA 
+[img102]
+
+Structure of tRNA 
+
+------------------------------
+Slide 103
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+ Fig. 6.9b Three-dimensional structure of yeast phenylalanine tRNA as determined  
+	by X-ray diffraction of tRNA crystals 
+[img103]
+
+Actual 3-D structure  
+of tRNA 
+
+------------------------------
+Slide 104
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Cloverleaf models for yeast precursor tRNA.Tyr and mature tRNA.Tyr 
+[img104]
+
+Some tRNA in eukaryotes 
+have introns (about 10%). 
+
+
+Removal of intron 
+involves a specific  
+endonuclease and then 
+the RNA pieces are 
+ligated together by  
+RNA ligase. 
+
+------------------------------
+Slide 105
+12.5 A Comparison of Transcription and RNA Modification (1 of 2) 
+
+
+Table 12.5 
+Key Differences Between Transcription and RNA Modification in Bacteria and Eukaryotes* 
+
+------------------------------
+Slide 106
+12.5 A Comparison of Transcription and RNA Modification (2 of 2) 
+
+
+*Note: This table does not include the process of gene regulation, which is described in Chapters 14, 15, and 16. 
+
+------------------------------
+Slide 107
+End of Presentation 
+
+------------------------------

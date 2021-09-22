@@ -1,0 +1,1433 @@
+Slide 1
+“O man, what’s this crazy human going on about now?” 
+[img1]
+------------------------------
+Slide 2
+We will learn about the mechanics of DNA Replication and chromosome duplication in prokaryotes and eukaryotes 
+. 
+
+
+					Chapter 11 
+					DNA Replication 
+[img2]
+
+Genetics 
+Analysis & Principles 
+
+
+Sixth Edition 
+[img2]
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+[img2]
+------------------------------
+Slide 3
+Introduction 
+
+
+DNA replication is the process by which the genetic material is copied 
+The original DNA strands are used as templates for the synthesis of new strands with identical sequence 
+It occurs very quickly, very accurately and at the appropriate time in the life of the cell 
+[img3][img3]
+------------------------------
+Slide 4
+11.1 Structural Overview of DNA Replication (1 of 2) 
+
+
+DNA replication relies on the complementarity of DNA strands 
+A pairs with T and G pairs with C 
+The AT/GC rule or Chargaff’s rule 
+The process is: 
+The two complementary DNA strands come apart  
+Each serves as a template strand for the synthesis of new complementary DNA strands 
+The two newly-made DNA strands =  
+daughter strands 
+The two original DNA strands =  
+parental strands 
+[img4]
+------------------------------
+Slide 5
+11.1 Structural Overview of DNA Replication (2 of 2) 
+[img5]
+
+(a) The mechanism of DNA Replication 
+
+------------------------------
+Slide 6
+Watson and Crick reasoned that replication would be straight forward if their model was correct. 
+
+
+They suggested the  
+semiconservative 
+  
+model 
+ for DNA replication: 
+Two progeny DNA double helices:  Each helix has one new strand and one parental strand and the parental strand acts as the template for the new strand. 
+
+------------------------------
+Slide 7
+Experiment 11A: Which Model of DNA Replication is Correct?  
+
+
+In the late 1950s, three different mechanisms were proposed for the replication of DNA 
+Conservative model 
+Both parental strands stay together after DNA replication 
+Semiconservative model 
+The double-stranded DNA contains one parental and one daughter strand following replication 
+Dispersive model 
+Parental and daughter DNA segments are interspersed in both strands following replication 
+
+------------------------------
+Slide 8
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Three models for the replication of DNA 
+[img8]
+
+Meselson-Stahl experiment provided the answer. 
+
+------------------------------
+Slide 9
+Experiment 11A: Which Model of DNA Replication is Correct?  
+
+
+In 1958, Matthew  
+Meselson 
+ and Franklin Stahl devised a method to investigate these models 
+They found a way to experimentally distinguish between daughter and parental strands 
+Hypothesis 
+: Based on Watson’s and Crick’s ideas, the hypothesis was that DNA replication is  
+semiconservative 
+. 
+
+------------------------------
+Slide 10
+Experiment 11A: Which Model of DNA Replication is Correct?  
+
+
+Experimental summary: 
+Grow  
+E. coli  
+in the presence of  
+15 
+N (a heavy isotope of Nitrogen) for many generations 
+The population of cells had heavy-labeled DNA 
+Switch  
+E. coli  
+to medium containing only  
+14 
+N (a light isotope of Nitrogen) 
+Collect sample of cells after various times 
+Analyze the density of the DNA by centrifugation using a  
+CsCl 
+ gradient 
+[img10]
+------------------------------
+Slide 11
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Box Fig. 3.1  Equilibrium centrifugation of DNA of different densities in a cesium chloride  
+	density gradient 
+[img11]
+
+Grow E. coli in minimal media containing  
+15 
+NH 
+4 
+Cl 
+(15 
+N is a heavy isotope of  
+14 
+N).    
+All bases were labeled with  
+15 
+N. 
+[img11]
+
+Figure 3: Density gradient centrifugation of a mixture of  
+15 
+N-DNA and  
+14 
+N-DNA. 
+ Meselson and Stahl first showed that they  
+can separate a mixture of DNA of the two different densities. The picture  
+on the left is a UV photograph showing the banding of DNA of different 
+densities following centrifugation. The graph on the right is a trace of the  
+intensity of the bands in the picture. image © Meselson and Stahl 
+
+------------------------------
+Slide 12
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.2  The Meselson-Stahl experiment, which showed that DNA replicates 		semiconservatively 
+[img12]
+------------------------------
+Slide 13
+The Data (2 of 2) 
+
+
+After one generation, DNA is “ 
+half-heavy 
+” 
+consistent with both semi-conservative and dispersive models 
+After ~ two generations, DNA is of two types: “ 
+light 
+” and “ 
+half-heavy 
+” 
+consistent with  
+only 
+ the semi-conservative model 
+
+------------------------------
+Slide 14
+
+
+Dispersive 
+
+
+Conservative 
+
+
+Semiconservative 
+[img14][img14]
+
+M. Meselson & F. Stahl (1958).  
+“The replication of DNA in  
+Eschericia 
+ coli 
+.” 
+ PNAS, 44(7): 671-682, Fig 4A.  
+Courtesy of M. Meselson 
+
+------------------------------
+Slide 15
+Animation of  
+Meselsom 
+-Stahl experiment 
+[img15]
+
+Visualization of semiconservative DNA replication in eukaryotes. 
+  
+Shown are  
+harlequin chromosomes in Chinese hamster ovary cells that have been allowed to go through two rounds of DNA replication in the presence of the base analog 5-bromodeoxyuridine ( 
+BUdR 
+), followed by staining. Arrows indicate the sites where crossing-over has occurred.  
+[img15]
+
+Chemically  
+induced 
+Cross-overs. 
+
+
+Naturally 
+Occurring 
+Cross-overs 
+
+------------------------------
+Slide 16
+Enzymes Involved in DNA synthesis 
+
+
+First enzyme isolated by Arthur Kornberg and his colleagues in 1955. 
+Investigation focused on necessary ingredients for DNA replication in  
+E. coli 
+. 
+First successful synthesis of DNA  
+in vitro 
+: 
+Reaction Mix: 
+DNA fragments 
+Four radioactively labeled deoxyribonucleotide triphosphates  
+dATP 
+,  
+dGTP 
+,  
+dCTP 
+ and dTTP. 
+E. coli 
+ lysate. 
+
+------------------------------
+Slide 17
+Enzymes Involved in DNA synthesis 
+
+
+Critical component for synthesis was the  
+E. coli 
+ lysate:  Kornberg fractionated the lysate and isolated the enzyme  
+DNA Polymerase I. 
+Four components are needed for DNA  polymerase activity: 
+All four dNTPs 
+Magnesium ions (Mg 
+2+ 
+) 
+A fragment of DNA 
+DNA polymerase I 
+New DNA made  
+in vitro 
+ was a copy of the original DNA. 
+
+------------------------------
+Slide 18
+Enzymes Involved in DNA synthesis 
+
+
+All known polymerases from prokaryotes and eukaryotes will make new DNA copies  
+in vitro. 
+Thus, Bacterial DNA polymerase I will work on Human DNA. 
+Reaction for DNA polymerization is: 
+	 
+	 
+{( 
+dNMP 
+) 
+n 
+} + dNTP                {( 
+dNMP 
+) 
+n+1 
+} +  
+PP 
+i 
+            
+
+
+
+
+
+
+DNA Polymerase 
+
+
+DNA 
+polymer 
+
+
+
+
+DNA 
+Polymer 
++ 1 
+dNMP 
+[img18]
+------------------------------
+Slide 19
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.3a  DNA chain elongation catalyzed by DNA polymerase 
+[img19]
+
+Additional Lecture on why 5’-3’ direction only 
+
+------------------------------
+Slide 20
+DNA Biosynthesis 
+[img20]
+
+Nucleophilic attack 
+
+
+
+
+Good 
+Leaving 
+Group 
+
+
+Why 5′ to 3ʹ? 
+
+------------------------------
+Slide 21
+Genetic studies indicated that DNA Pol I was not the only polymerase in  
+E. coli. 
+
+
+Genetic studies that discovered the existence of other DNA polymerases. 
+A mutation that made a defective DNA pol I (lacked polymerase activity but had near normal 5’ - 3’ exonuclease activity) was found not to be lethal in  
+E. coli. 
+Conditional mutants (Temperature-sensitive for 5’-3’ exonuclease activity in DNA Pol I): 
+At 37 
+o 
+C => Temp-sensitive worked normally. 
+At 42 
+o 
+C=>Although DNA Polymerase activity was normal, mutants died because 5’-3’ exonuclease activity was lost. 
+Since the 5’-3’ exonuclease activity was essential and because mutant DNA pol I was not lethal, other DNA polymerases existed in  
+E. coli. 
+In 1970 & 1971 DNA Pol II and Pol III were isolated from  
+E. coli. 
+
+------------------------------
+Slide 22
+Extra Table 
+Additional information 
+[img22]
+
+Now five DNA polymerases:   
+DNA Pol I and Pol III are for DNA replication 
+DNA Pol I, DNA Pol II, DNA Pol IV and DNA Pol V are for DNA repair 
+
+------------------------------
+Slide 23
+DNA Polymerases 
+
+
+DNA polymerases are the enzymes that catalyze the attachment of nucleotides to synthesize a new DNA strand 
+In  
+E. coli  
+there are five proteins with polymerase activity 
+DNA pol I, II, III, IV and V 
+DNA pol I and III  
+Normal replication 
+DNA pol II, IV and V  
+DNA  
+repair and replication of damaged DNA 
+
+------------------------------
+Slide 24
+DNA Polymerases 
+
+
+DNA pol III 
+Responsible for most of the DNA replication 
+Composed of 10 different subunits (Table 11.2) 
+The  
+α 
+ subunit catalyzes bond formation between adjacent nucleotides (DNA synthesis) 
+The other 9 fulfill other functions 
+The complex of all 10 subunits is referred to as the  
+DNA pol III  
+holoenzyme 
+DNA pol I 
+Composed of a single polypeptide 
+Removes the RNA primers and replaces them with DNA  
+
+------------------------------
+Slide 25
+Subunit Composition of DNA Polymerase III  
+Holoenzyme 
+ from  
+E. coli 
+
+
+TABLE 11.2 
+Subunit Composition of DNA polymerase III  
+Holoenzyme 
+ from  
+E. coli 
+
+------------------------------
+[img26]Slide 26
+11.2 Bacterial DNA Replication 
+
+
+Bacterial DNA Replication: The formation of two replication forks at the origin of replication 
+DNA synthesis begins at a site termed the origin of replication 
+Each bacterial chromosome has only one origin of replication 
+Synthesis of DNA proceeds  
+bidirectionally 
+ around the bacterial chromosome 
+The two replication forks eventually meet at the opposite side of the bacterial chromosome 
+This ends replication 
+
+------------------------------
+Slide 27
+Bacterial Chromosome Replication (2 of 2) 
+[img27]
+
+(b) Autoradiograph of an  
+E. coli  
+in the act of replication 
+(b) Cold Spring  
+Harber 
+ Symposia on Quantitative Biology (1963). 28: 43. John Cairns,  
+© Cold Spring  
+Harbor 
+ Laboratory Press 
+
+------------------------------
+[img28]Slide 28
+Initiation of Replication 
+
+
+The origin of replication in  
+E. coli  
+is termed  
+oriC 
+ori 
+gin of  
+C 
+hromosomal replication 
+Three types of DNA sequences in  
+oriC 
+ are functionally significant 
+AT-rich region 
+DnaA 
+ boxes 
+GATC methylation sites 
+
+
+9  
+basepair 
+ repeat 
+
+------------------------------
+Slide 29
+Events that Occur at  
+oriC 
+  
+(Figure 11.6) 
+
+
+DnaA 
+ proteins bind to  
+DnaA 
+ boxes and to each other 
+Additional proteins bind to bend DNA 
+Strands separate at AT-rich region 
+DnaB 
+/helicase 
+Composed of six subunits 
+Travels along the DNA in the 5’ to 3’ direction 
+Uses energy from ATP 
+[img29]
+------------------------------
+Slide 30
+Events that Occur at  
+oriC 
+  
+(Figure 11.6) (2 of 2) 
+[img30]
+------------------------------
+Slide 31
+GATC Methylation Sites in Replication 
+
+
+GATC 
+ methylation sites are involved in regulating replication 
+Need to ensure only one round of replication!!! 
+DNA adenine  
+methyltransferase 
+ (Dam)  
+methylates 
+ the A on both strands 
+Immediately after replication, the daughter strand is not methylated 
+Takes several minutes to become methylated 
+Initiation of replication only occurs efficiently on fully methylated DNA 
+Second round initiation is blocked 
+[img31]
+
+GATC 
+
+------------------------------
+Slide 32
+11.3 Bacterial DNA Replication: Synthesis of New DNA strands 
+
+
+Unwinding of the Helix: 
+DNA helicase separates the two DNA strands by breaking the hydrogen bonds between them 
+This generates positive supercoiling ahead of each replication fork 
+Topoisomerase 
+ II also called  
+DNA  
+gyrase 
+  
+travels ahead of the helicase and alleviates these supercoils 
+Single-strand binding proteins  
+bind to the separated DNA strands to keep them apart 
+Bases are exposed and can hydrogen bond with individual nucleotides 
+[img32]
+------------------------------
+Slide 33
+Synthesis of RNA Primers and DNA 
+
+
+Then short (10 to 12 nucleotides 
+) RNA primers 
+ are synthesized by  
+primase 
+These short RNA strands start, or prime, DNA synthesis 
+Typically 10-12 nucleotides in length 
+The leading strand has a single primer 
+The lagging strand needs multiple primers 
+They are eventually removed and replaced with DNA 
+DNA polymerase  
+enzymes are responsible for synthesizing the DNA 
+[img33]
+------------------------------
+[img34]Slide 34
+Proteins in Bacterial DNA Replication (Figure 11.7) 
+
+
+Functions of key proteins involved with bacterial DNA replication 
+DNA Helicase breaks the hydrogen bonds between the DNA strands. 
+Topoisomerase II alleviates positive supercoiling. 
+Single-stranded binding proteins keep the parental strands apart 
+Primase 
+ synthesizes an RNA primer 
+
+------------------------------
+Slide 35
+Proteins in Bacterial DNA Replication (Figure 11.7) 
+
+
+DNA polymerase III synthesizes a daughter strand of DNA 
+DNA polymerase I excises the RNA primers and fills in with DNA (not shown) 
+DNA ligase covalently links the Okazaki fragments together 
+[img35]
+------------------------------
+[img36]Slide 36
+Structure of DNA Polymerase 
+  
+(1 of 2) 
+
+
+Structure resembles a human right hand 
+Template DNA is threaded through the palm;  
+Thumb and fingers wrapped around the DNA 
+Bacterial DNA polymerases may vary in their subunit composition 
+However, they all have a similar catalytic subunit 
+
+------------------------------
+Slide 37
+Features of DNA Polymerase (Figure 11.9) 
+
+
+DNA polymerases cannot initiate DNA synthesis by linking two individual nucleotides 
+Problem is overcome by the RNA primers synthesized by  
+primase 
+DNA polymerases can attach nucleotides only in the 5’ to 3’ direction, but the two strands are anti-parallel and go in opposite directions 
+Problem is overcome by synthesizing the new strands both toward, and away from, the replication fork 
+[img37]
+------------------------------
+Slide 38
+Semidiscontinuous 
+ DNA Replication 
+Okasaki 
+ Fragments-short DNA fragments where the RNA primers have been removed by DNA polymerase. 
+DNA ligase-catalyzes the formation of the final phosphodiester bond between  
+Okasaki 
+ fragments. 
+
+
+Bidirectional movement 
+  
+[img38]
+------------------------------
+Slide 39
+Synthesis of Leading and Lagging Strands 
+
+
+The two new daughter strands are synthesized in different ways and opposite orientations 
+Leading strand 
+One RNA primer is made at the origin 
+DNA pol III attaches nucleotides in a 5’ to 3’ direction as it slides toward the opening of the replication fork  
+[img39]
+------------------------------
+Slide 40
+Synthesis of Leading and Lagging Strands 
+
+
+Lagging strand 
+Synthesis is also in the 5’ to 3’ direction 
+However it occurs away from the replication fork 
+Many RNA primers are required 
+DNA pol III uses the RNA primers to synthesize small DNA fragments (1000 to 2000 nucleotides in bacteria, 100-200 in eukaryotes) 
+These are termed  
+Okazaki fragments  
+after their discoverers 
+[img40]
+------------------------------
+Slide 41
+DNA Synthesis at the Replication Fork (Figure 11.10) 
+
+
+DNA pol I  
+removes the RNA primers and fills the resulting gap with DNA 
+It uses a 5’ to 3’  
+exonuclease 
+ activity to digest the RNA and 5’ to 3’ polymerase activity to replace it with DNA 
+After the gap is filled a covalent bond is still missing 
+DNA ligase  
+catalyzes the formation of a  
+phosphodiester 
+ bond 
+Thereby connecting the DNA fragments 
+[img41]
+------------------------------
+Slide 42
+Synthesis of Leading and Lagging Strands from a Single Origin of 
+  
+Replication (Figure 
+  
+11.11) 
+[img42]
+
+Figure 11.11 
+
+------------------------------
+Slide 43
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.5a, b   Model for the events occurring around a single replication fork of the  
+	 
+E. coli  
+chromosome 
+[img43]
+
+Prevents DNA from folding 
+
+
+
+------------------------------
+Slide 44
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.5c-e   Model for the events occurring around a single replication fork of the  
+	 
+E. coli  
+chromosome 
+[img44]
+------------------------------
+[img45]
+------------------------------
+Slide 46
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.7  Action of DNA ligase in sealing the gap between adjacent DNA fragments to  
+	form a longer, covalently continuous chain 
+[img46]
+
+DNA pol III dissociates from lagging strand. 
+DNA pol I binds at RNA primer and removes RNA with  
+      5’-3’ exonuclease activity and replaces RNA with DNA. 
+3)  Ligase binds to single strand gap and ligates the strand. 
+
+------------------------------
+Slide 47
+Animation for Advance Molecular  
+Model of DNA replication 
+
+------------------------------
+Slide 48
+DNA Replication Complexes 
+
+
+DNA helicase and  
+primase 
+ are physically bound to each other to form a complex called the  
+primosome 
+This complex better coordinates the actions of helicase and  
+primase 
+The  
+primosome 
+ is physically associated with two DNA polymerase  
+holoenzymes 
+ to form the  
+replisome 
+[img48]
+------------------------------
+Slide 49
+DNA Replication Complexes 
+
+
+Two DNA pol III proteins act in concert to replicate both the leading and lagging strands 
+The two proteins form a  
+dimeric 
+ DNA polymerase  
+that moves as a unit toward the replication fork 
+DNA polymerases can only synthesize DNA in the 5’ to 3’ direction 
+So synthesis of the leading strand is continuous 
+And that of the lagging strand is discontinuous 
+[img49]
+------------------------------
+Slide 50
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.8  Model for the “replication machine,” or replisome, the complex of key  
+	replication proteins, with the DNA at the replication fork 
+[img50]
+
+This (nearly 3D) model fits current data, which indicates that the key 
+replication proteins are closely associated at the fork.  Keep this in mind 
+when studying the previous slides. 
+
+------------------------------
+Slide 51
+Twisting problem is solved by topoisomerase, 
+which introduces negative supercoils. 
+[img51]
+
+Nucleotides are added rapidly: 
+E. Coli	500 to 850 / sec 
+Human	60-90 / sec 
+Tissue	3,600 -5,400 / min. 
+Culture  
+Cells 
+Untwisting at  
+3,000 to 5,000 rpm 
+
+------------------------------
+Slide 52
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Diagram showing the unreplicated, supercoiled parent strands and the  
+	portions already replicated 
+
+
+[img52]
+
+Based on an electron 
+Micrograph of circular 
+SV40 DNA 
+
+------------------------------
+Slide 53
+Lagging Strand Synthesis 
+
+
+The lagging strand is looped 
+This allows the attached DNA polymerase to synthesize the Okazaki fragments in the normal 5’ to 3’ direction 
+The polymerase synthesizing the lagging strand is also moving toward the replication fork 
+Upon completion of an Okazaki fragment, the enzyme releases the lagging template strand 
+The clamp loader complex then reloads the polymerase at the next RNA primer 
+Another loop is then formed 
+This processed is repeated over and over again 
+[img53]
+------------------------------
+Slide 54
+DNA Polymerase III is a Processive Enzyme (1 of 2) 
+
+
+DNA polymerase III remains attached to the template as it is synthesizing the daughter strand 
+This  
+processiv 
+e 
+ feature is due to several different subunits in the DNA pol III  
+holoenzyme 
+β 
+ subunit forms a dimer in the shape of a ring around template DNA 
+It is termed the  
+clamp protein 
+Once bound, the  
+β 
+ subunits can freely slide along  
+dsDNA 
+Promotes association of  
+holoenzyme 
+ with DNA 
+Complex of several subunits functions as a  
+clamp loader 
+
+------------------------------
+Slide 55
+Animation on DNA replication 
+
+------------------------------
+Slide 56
+DNA Polymerase III is a  
+Processive 
+ Enzyme (2 of 2) 
+
+
+The effect of  
+processivity 
+ is quite remarkable 
+In the absence of the  
+β 
+ subunit 
+DNA pol III falls off the DNA template after about 10 nucleotides have been polymerized 
+Its rate is ~ 20 nucleotides per second 
+In the presence of the  
+β 
+ subunit 
+DNA pol III stays on the DNA template long enough to polymerize up to 500,000 nucleotides 
+Its rate is ~ 750 nucleotides per second 
+
+------------------------------
+Slide 57
+Fidelity Mechanisms (1 of 4) 
+
+
+DNA replication exhibits a high degree of  
+fidelity 
+Mistakes during the process are extremely rare 
+DNA pol III makes only one mistake per 10 
+8 
+ bases made  
+There are several reasons why fidelity is high 
+Stability of base pairing 
+Structure of the DNA polymerase active site 
+Proofreading function of DNA polymerase  
+
+------------------------------
+Slide 58
+Fidelity Mechanisms 
+
+
+Stability of proper base pairs 
+Complementary base pairs have much higher stability than mismatched pairs 
+Stability of base pairs only accounts for part of the fidelity 
+Error rate for mismatched base pairs is 1 per 1,000 nucleotides 
+Configuration of the DNA polymerase active site 
+Helix distortion caused by  
+mispairing 
+ prevents incorrect nucleotide fitting properly in active site 
+This induced-fit phenomenon decreases the error rate to a range of 1 in 100,000 to 1 million  
+[img58]
+------------------------------
+Slide 59
+Fidelity Mechanisms 
+
+
+Proofreading function of DNA polymerase 
+DNA polymerases can identify a mismatched nucleotide and remove it from the daughter strand 
+The enzyme uses a 3’ to 5’  
+exonuclease 
+ activity to digest the newly made strand until the mismatched nucleotide is removed 
+DNA synthesis then resumes in the 5’ to 3’ direction  
+[img59]
+------------------------------
+Slide 60
+11.5 Eukaryotic DNA Replication 
+
+
+Eukaryotic DNA replication is not as well understood as bacterial replication 
+The two processes do have extensive similarities, 
+The types of bacterial enzymes described in Table 11.1 have also been found in eukaryotes 
+Nevertheless, DNA replication in eukaryotes is more complex 
+Large linear chromosomes 
+Chromatin is tightly packed within nucleosomes 
+More complicated cell cycle regulation 
+
+------------------------------
+Slide 61
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.-  Some of the molecular events that control progression through the cell cycle  
+	in yeasts                
+Replication in Eukaryotes is semiconservative 
+[img61]
+
+Determine if cell 
+is large enough and 
+is the environment  
+favorable for synthesis 
+of DNA.  
+
+
+
+
+Determine if  
+chromosome is  
+attached to mitotic  
+spindle properly,  
+for separation  
+of chromatin. 
+
+
+
+
+Determine if cell is large  
+enough, is DNA replicated, 
+and is environment  
+Favorable for mitosis. 
+
+
+
+
+Regulatory events 
+key elements: 
+Cyclin 
+ => concentration 
+increases and decreases 
+in a cyclic manner. 
+Cyclin-dependent kinase 
+When bound to  
+cyclin, it is activated  
+and will phosphorylate 
+other proteins. 
+
+
+MPF 
+
+------------------------------
+Slide 62
+Initiation of DNA Replication 
+
+
+If only one site of replication in human, then for 3.4 x 10 
+9 
+ (23 chromosomes) at a replication rate of 2kb/minute in human cells it would take 
+				 830 hours/chromosome 
+   Gestation of human fetus would be many years instead of 9 months. 
+In Eukaryotes, it is obviously much faster. 
+In Drosophila, a diploid set is replicated in 3 minutes 
+Six times faster than  
+E. coli 
+, although there is 100 times more DNA in Drosophila. 
+			 
+
+------------------------------
+Slide 63
+Multiple Origins of Replication 
+
+
+Eukaryotes have long linear chromosomes 
+They therefore require multiple origins of replication  
+To ensure that the DNA can be replicated in a reasonable amount of time 
+In 1968,  
+Huberman 
+ and Riggs provided evidence for multiple origins of replication 
+Refer to Figure 11.18	 
+DNA replication proceeds  
+bidirectionally 
+ from many origins of replication 
+ Refer to Figure 11.19  
+
+------------------------------
+Slide 64
+Evidence for Multiple Origins of Replication (Figure 11.18) 
+
+
+A pulse of radiolabeled nucleoside was taken up by cells and incorporated into newly made DNA strands. Labeled areas were interspersed between  
+nonlabeled 
+, indicating multiple regions had initiated replication 
+[img64]
+
+Courtesy of  
+Dr. 
+ Joel A.  
+Huberman 
+
+------------------------------
+Slide 65
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.13  Replicating DNA of  
+Drosophila melanogaster 
+
+
+Replicons = replication unit 
+
+
+Numerous sites of replication on chromosomes 
+[img65]
+------------------------------
+Slide 66
+Replication of Eukaryotic Chromosomes (Figure 11.19) 
+
+
+Replication bubbles from multiple origins merge into completely replicated chromosomes 
+[img66]
+------------------------------
+Slide 67
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.14  Temporal ordering of DNA replication initiation events in replication units  
+	of eukaryotic chromosomes. Doesn’t occur simultaneously at each replicon. 
+[img67]
+------------------------------
+Slide 68
+Eukaryotic Origins of Replication 
+
+
+The origins of replication found in eukaryotes have some similarities to those of bacteria 
+Origins of replication in Yeast (Saccharomyces cerevisiae) are termed ARS elements ( 
+A 
+utonomously  
+R 
+eplicating  
+S 
+equence) 
+They are about 50  
+bp 
+ in length 
+They have a high percentage of A and T 
+ARS consensus sequence (ACS) 
+ATTTAT(A or G)TTTA 
+Origins in more complex eukaryotes are not fully defined 
+Many occur at sites defined by chromatin structure, not sequence 
+
+------------------------------
+Slide 69
+Eukaryotic Replication 
+  
+(Figure 11.20) 
+
+
+Replication begins with assembly of the  
+prereplication 
+ complex ( 
+preRC 
+) 
+Includes the  
+Origin recognition complex (ORC) 
+A six-subunit complex that acts as the first initiator of eukaryotic DNA replication  
+Other  
+preRC 
+ proteins include  
+MCM Helicase 
+Binding of MCM completes  
+DNA replication licensing 
+These origins are able to begin DNA synthesis 
+[img69]
+------------------------------
+Slide 70
+Eukaryotes Contain Several Different DNA Polymerases 
+
+
+Mammalian cells contain well over a dozen different DNA polymerases 
+Four: alpha ( 
+α 
+), delta ( 
+δ 
+), epsilon ( 
+ε 
+) and gamma ( 
+γ 
+) have the primary function of replicating DNA 
+α 
+,  
+δ 
+ and  
+ε 
+  
+  
+Nuclear DNA 
+γ 
+  
+ 
+ Mitochondrial DNA 
+[img70]
+------------------------------
+Slide 71
+Functions of DNA Polymerases in Replication 
+
+
+DNA pol a  
+is the only polymerase to associate with  
+primase 
+The DNA pol  
+α 
+/ 
+primase 
+ complex synthesizes a short RNA-DNA hybrid primer 
+10 RNA nucleotides followed by 20 to 30 DNA nucleotides 
+The exchange of DNA pol  
+α 
+ for  
+ε 
+ or  
+δ 
+ is required for elongation of the leading and lagging strands. 
+This is called a  
+polymerase switch  
+DNA pol  
+ε 
+ is used for the  
+processive 
+ elongation of the leading strand 
+DNA pol  
+δ 
+  
+is used for the lagging strands 
+
+------------------------------
+Slide 72
+Functions of DNA Polymerases in DNA Repair 
+
+
+DNA polymerases also play a role in DNA repair 
+DNA pol  
+β 
+ is not involved in DNA replication  
+It plays a role in removal of incorrect bases from damaged DNA  
+Recently, more DNA polymerases have been identified 
+Many are  
+translesion 
+-replicating polymerases 
+Involved in the replication of damaged DNA 
+They can synthesize a complementary strand over the abnormal region 
+
+------------------------------
+Slide 73
+Flap Endonuclease  
+Removes RNA Primers 
+
+
+Distinct from prokaryotic replication 
+Polymerase  
+δ 
+ runs into primer of adjacent Okazaki fragment 
+Pushes portion of primer into short flap 
+Flap endonuclease  
+removes the primer 
+Long flaps are removed by DNA2 nuclease/helicase 
+Cuts long flap into short flap 
+[img73]
+------------------------------
+Slide 74
+Telomeres and DNA Replication 
+
+
+Linear eukaryotic chromosomes have telomeres at both ends 
+The term  
+telomere 
+ refers to the complex of  
+telomeric 
+ DNA sequences and bound proteins 
+
+------------------------------
+Slide 75
+Telomeric 
+ DNA Sequences 
+
+
+Telomeric 
+ sequences consist of moderately repetitive tandem arrays 
+3’ overhang that is 12-16 nucleotides long 
+Telomeric 
+ sequences typically consist of 
+Several guanine nucleotides 
+Many thymine nucleotides 
+Refer to Table 11.5 
+[img75]
+------------------------------
+Slide 76
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.15  The problem of replicating completely a linear chromosome in eukaryotes 
+[img76]
+
+When replicating 
+the end of 
+Chromosome the 
+RNA primer  
+leaves gap. 
+
+
+Ends of chromosome  
+called telomere. 
+
+------------------------------
+Slide 77
+Replication Problem at the Ends of Linear Chromosomes (1 of 2) 
+
+
+DNA polymerases possess two unusual features 
+They synthesize DNA only in the 5’ to 3’ direction 
+They cannot initiate DNA synthesis 
+At the 3’ ends of linear chromosomes - the end of the strand cannot be replicated! 
+[img77]
+------------------------------
+Slide 78
+Replication Problem at the Ends of Linear Chromosomes 
+
+
+If this problem is not solved 
+The linear chromosome becomes progressively shorter with each round of DNA replication 
+Indeed, the cell solves this problem by adding DNA sequences to the ends of telomeres 
+This requires a specialized mechanism catalyzed by the enzyme telomerase 
+Telomerase contains protein and RNA 
+The RNA is complementary to the DNA sequence found in the  
+telomeric 
+ repeat 
+This allows the telomerase to bind to the 3’ overhang 
+[img78]
+------------------------------
+Slide 79
+Enzymatic Action of Telomerase (Figure 11.24) (1 of 2) 
+
+
+Step 1: binding 
+Step 2: polymerization 
+Step 3: translocation 
+These steps are repeated many times to lengthen one strand  
+
+------------------------------
+Slide 80
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 3.15  Synthesis of telomeric DNA by telomerase 
+[img80]
+
+Gap correction at telomeres 
+
+
+Synthesis of DNA from an RNA primer is 
+called reverse transcription.  Therefore, 
+Telomerase 
+ is a Reverse Transcriptase.  
+
+------------------------------
+Slide 81
+Telomere Length and Cancer 
+
+
+Telomeres tend to shorten in actively dividing cells 
+Telomere DNA is about 8,000  
+bp 
+ at birth 
+Can shorten to 1,500 in elderly person 
+Cells become senescent when telomeres are short 
+Lose their ability to divide 
+Insertion of highly active telomerase can block senescence 
+
+------------------------------
+Slide 82
+Telomere Length and Cancer 
+
+
+Cancer cells commonly carry mutations increasing activity of telomerase 
+Prevents telomere shortening and senescence 
+May be a target for anti-cancer drug treatments 
+
+------------------------------
+Slide 83
+Telomerase Activity 
+
+
+In mammalian cells, telomerase activity is limited to immortal cells (tumor cells and embryonic stem cells). 
+When absent, as in normal cells, the result is a progressive shortening of chromosome. 
+As a result, in normal cells, there is a limited number of cell divisions before a cell dies because the chromosomes are too short. 
+[img83]
+
+In vertebrates, the sequence of  
+nucleotides in telomeres is TTAGGG.  
+This sequence of TTAGGG is repeated  
+approximately 2,500 times in humans. 
+[1] 
+
+
+This loop is analogous to a  
+knot 
+, which stabilizes the telomere,  
+preventing the telomere ends from being recognized as break  
+points by the DNA repair machinery.  
+[img83]
+------------------------------
+Slide 84
+Histone Synthesis and Nucleosome Assembly: 
+When DNA is doubled, the number of histones is also doubled. 
+
+
+Histone synthesis (5 histone genes): 
+Initiates transcription near the end of the G 
+1 
+ phase, which is just prior to the S phase. 
+As DNA replication completes, histone transcription ends and histone mRNA is degraded. 
+Nucleosome assembly: 
+New DNA is assembled into nucleosome almost immediately. 
+However, there is a nucleosome –free zone, which consist of 200-300 bp around the replication fork. 
+
+------------------------------
+[img85]Slide 85
+Figure 3.16 Assembly of new nucleosomes at a replication fork. New nucleosomes are  
+assembled first with the use of either a parental or a new H3–H4 tetramer and then by  
+completing the structure with a pair of H2A–H2B dimers. 
+
+------------------------------
+Slide 86
+End of Presentation 
+
+------------------------------

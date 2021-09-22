@@ -1,0 +1,818 @@
+Slide 1
+Think, Chromosomes, Synaptonemal Complex, Crossing Over, and Meiosis: 
+Now think, Holliday Intermediate! 
+[img1]
+------------------------------
+[img2]Slide 2
+Genetics 
+Analysis & Principles 
+
+
+Sixth Edition 
+[img2]
+
+Chapter 10 
+Chromosome Transmission During Cell Division and Sexual Reproduction 
+
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+[img2]
+
+Hutchinson–Gilford progeria syndrome (HGPS) 
+Frequency: 1 to 18 million; Average life span is 13 yrs 
+
+------------------------------
+Slide 3
+The Organization of DNA in Chromosomes 
+
+
+	 
+In order to understand how gene expression is controlled, it is important to understand how DNA is organized in chromosomes. 
+  
+[img3]
+------------------------------
+Slide 4
+Introduction 
+
+
+Chromosomes are the structures that contain the genetic material 
+They are complexes of DNA and proteins 
+The genome comprises all the genetic material that an organism possesses 
+In bacteria, it is typically a single circular chromosome 
+In eukaryotes, it refers to one complete set of nuclear chromosomes 
+Note: 
+Eukaryotes possess a mitochondrial genome 
+Plants also have a chloroplast genome 
+
+------------------------------
+Slide 5
+Introduction 
+
+
+The main function of the genetic material is to store the information required to produce an organism 
+The DNA molecule does that through its base sequence 
+DNA sequences are necessary for  
+Synthesis of RNA and cellular proteins 
+Replication of chromosomes 
+Proper segregation of chromosomes 
+Compaction of chromosomes 
+So they can fit within living cells 
+
+------------------------------
+[img6]Slide 6
+10.1 Organization of Bacterial Chromosomes 
+
+
+Bacterial chromosomal DNA is usually a circular molecule that is a few million nucleotides in length 
+Escherichia coli  
+ ~ 4.6 million base pairs 
+Haemophilus influenzae  
+ ~ 1.8 million base pairs 
+A typical bacterial chromosome contains a few thousand different genes 
+Protein-encoding genes (Structural genes) account for the majority of bacterial DNA 
+The nontranscribed DNA between adjacent genes are termed intergenic regions 
+
+------------------------------
+Slide 7
+Organization of Bacterial Chromosome (2 of 3) 
+
+
+Key features: 
+Most, but not all, bacterial species contain circular chromosomal DNA. 
+Most bacterial species contain a single type of chromosome, but it may be present in multiple copies. 
+A typical chromosome is a few million base pairs in length. 
+[img7]
+------------------------------
+Slide 8
+Organization of Bacterial Chromosome (3 of 3) 
+
+
+Several thousand different genes are interspersed throughout the chromosome. The short regions between adjacent genes are called intergenic regions. 
+One origin of replication is required to initiate DNA replication. 
+Repetitive sequences may be interspersed throughout the chromosome. 
+[img8]
+------------------------------
+Slide 9
+10.2 Structure of Bacterial Chromosomes 
+
+
+The bacterial chromosome is found in a region of the cell called the nucleoid 
+The nucleoid is not bounded by membrane 
+So the DNA is in direct contact with the cytoplasm 
+[img9]
+
+© M.Wurtz/ 
+Biozentrum 
+, University of Basel/Science Source 
+
+------------------------------
+Slide 10
+Loop Domains within a Bacterial Chromosome (1 of 2) 
+
+
+To fit within the bacterial cell, the chromosomal DNA must be compacted about a 1000-fold 
+This involves the formation of loop domains ( 
+microdomains 
+) 
+Number of loops varies according to the size of the bacterial chromosome and the species 
+E. coli 
+ has 50-100 with 40,000 to 80,000 bp of DNA in each loop 
+[img10]
+------------------------------
+Slide 11
+Loop Domains within a Bacterial Chromosome (2 of 2) 
+[img11]
+
+Source: Adapted from Xindan Wang, Paula Montera Llopis, and David Z. Rudner. (2013) Organization and segregation of bacterial chromosomes.  
+Nat Rev Genet  
+14(3). 
+
+------------------------------
+Slide 12
+The Organization of DNA in Chromosomes 
+
+
+In bacteria, DNA is present as a single chromosome of 4 x 10 
+3 
+ kb (1,100  
+m long) 
+Has all the genes for the bacterium to grow and survive its environment. 
+The amount of DNA is 500 times the length of the  
+E 
+.  
+coli 
+ cell. 
+How is all the DNA packaged into the nucleoid region of the  
+E 
+.  
+coli 
+ cell? 
+
+------------------------------
+Slide 13
+DNA Supercoiling Further Compacts Bacterial Chromosome (1 of 2) 
+
+
+Because the two strands within DNA already coil around each other, the formation of additional coils due to twisting forces is referred to as  
+DNA supercoiling. 
+Both underwinding and overwinding of the DNA double helix can cause supercoiling 
+
+------------------------------
+Slide 14
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.20  Illustration of DNA supercoiling 
+[img14]
+
+DNA in the bacterium exist in a 
+relaxed and supercoiled form. 
+See figure 2.23 
+
+
+Relaxed 
+
+
+Supercoiled: 
+tension is 
+created in 
+the DNA 
+
+
+
+
+
+------------------------------
+Slide 15
+Figures 2.15 and 2.17 
+[img15][img15]
+
+Same size DNA is in relaxed and supercoiled form.   
+Magnification is the same. 
+
+------------------------------
+Slide 16
+The Organization of DNA in Chromosomes 
+
+
+Same size DNA is in relaxed and supercoiled form.  Magnification is the same. 
+Supercoiling can even occur in linear DNA.                  Occurs in localized regions of linear DNA. 
+Two types of supercoiling:  Either type causes compaction. 
+Negative supercoil:   
+DNA is basically untwisted;  untwisted in the opposite direction from the clockwise turns of the right-handed double helix. 
+Positive supercoil:   
+DNA is twisted tighter;  twisted in the same direction as the clockwise turns on the helix. 
+[img16]
+------------------------------
+[img17]Slide 17
+DNA Supercoiling Further Compacts Bacterial Chromosome (2 of 2) 
+
+
+DNA given a turn that unwinds the helix 
+can cause fewer turns OR can cause a negative supercoil to form 
+DNA given a turn that overwinds the helix 
+either more turns OR the formation of a positive supercoil 
+These forms are  
+topoisomers 
+
+------------------------------
+Slide 18
+Chromosome Function is Influenced by DNA Supercoiling 
+
+
+The chromosomal DNA in bacteria is negatively supercoiled 
+In  
+E. coli 
+, there is one negative supercoil per 40 turns of the double helix. 
+Negative supercoiling has two major effects 
+1. Helps in the compaction of the chromosome 
+2. Creates tension that may be released by DNA strand separation 
+[img18]
+------------------------------
+Slide 19
+Control of Supercoiling 
+
+
+The control of supercoiling in bacteria is accomplished by two main enzymes 
+DNA gyrase  
+(also termed DNA topoisomerase II) 
+Introduces negative supercoils using energy from ATP 
+It can also relax positive supercoils when they occur 
+Can untangle intertwined DNA molecules 
+DNA topoisomerase I  
+Relaxes negative supercoils 
+The competing action of these two enzymes governs the overall supercoiling of bacterial DNA 
+
+------------------------------
+Slide 20
+The Action of DNA Gyrase 
+[img20]
+------------------------------
+Slide 21
+DNA Gyrase (1 of 2) 
+
+
+The ability of gyrase to introduce negative supercoils into DNA is crucial for bacteria to survive 
+Blocking the function of this enzyme is a way to cure or alleviate bacterial diseases 
+Two main classes of drugs inhibit gyrase and other bacterial topoisomerases 
+
+------------------------------
+Slide 22
+DNA  
+Gyrase 
+ (2 of 2) 
+
+
+Quinolones 
+Coumarins 
+These do not inhibit eukaryotic topoisomerases 
+An example of a quinolone is Ciprofloxacin (“Cipro”) 
+Used in the treatment of anthrax, among other diseases 
+[img22]
+------------------------------
+Slide 23
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.24  Model for the structure of a bacterial chromosome 
+[img23]
+
+Protein is  
+complexed 
+to bacterial  
+chromosome  
+and  
+creates  
+another 
+order of  
+compaction 
+
+
+Negatively 
+  
+supercoiled 
+
+
+
+
+
+
+Domain 
+-about  
+100 independent 
+domains.  What 
+happens in one 
+has no effect on 
+another. 
+
+
+
+
+
+
+
+
+
+------------------------------
+Slide 24
+10.3 Organization of Eukaryotic Chromosomes 
+
+
+Eukaryotic species contain one or more sets of chromosomes 
+Each set is composed of several different linear chromosomes 
+Humans have 2 sets of 23 chromosomes 
+Each chromosome contains a single, linear molecule of DNA 
+Typically tens to hundreds of millions of base pairs 
+Typically a few hundred to several thousand genes 
+Refer to Figure 10.8 
+
+------------------------------
+Slide 25
+Eukaryotic Chromosomes 
+
+
+In lower eukaryotes (such as yeast) 
+Genes are relatively small 
+They primarily contain the sequences that encode the amino acid sequences within proteins 
+i.e.: Very few, short introns are present 
+In higher eukaryotes (such as mammals) 
+Genes are long 
+They tend to have many introns (noncoding intervening sequences) 
+Intron lengths from less than 100 to more than 10,000 bp 
+
+------------------------------
+Slide 26
+Organization of Eukaryotic Chromosomes 
+
+
+Three types of DNA sequences are required for chromosomal replication and segregation 
+Origins of replication 
+Multiple Chromosomal sites necessary to initiate DNA replication 
+Centromeres 
+Regions that play a role in segregation of chromosomes 
+Telomeres 
+Specialized regions at the ends of chromosomes 
+Important in replication and for stability 
+[img26]
+------------------------------
+Slide 27
+Sizes of Eukaryotic Genomes and Repetitive Sequnces 
+
+
+The total amount of DNA in eukaryotic species is typically much greater than that in bacterial cells 
+Contain many more genes 
+Eukaryotic genomes vary substantially in size 
+[img27]
+------------------------------
+Slide 28
+Sizes of Eukaryotic Genomes 
+
+
+In many cases, this variation is not related to the complexity of the species  
+For example, there is a two fold difference in the size of the genome in two closely related salamander species 
+The difference in the size of the genome is not because of extra genes 
+Rather, the accumulation of repetitive DNA sequences  
+These do not encode proteins 
+[img28]
+------------------------------
+[img29]Slide 29
+Repetitive Sequences 
+
+
+Sequence complexity refers to the number of times a particular base sequence appears in the genome 
+There are three main types of repetitive sequences 
+Unique or non-repetitive 
+Moderately repetitive 
+Highly repetitive 
+
+------------------------------
+Slide 30
+Repetitive Sequences 
+
+
+Unique or non-repetitive sequences 
+Found once or a few times in the genome 
+Includes structural genes as well as intergenic areas 
+In humans, make up roughly 41% of the genome 
+Moderately repetitive 
+Found a few hundred to several thousand times 
+Includes  
+Genes for rRNA and histones 
+Sequences that regulate gene expression and translation 
+Transposable elements 
+Discussed in detail in Chapter 19 
+Highly repetitive 
+Found tens of thousands to millions of times 
+Each copy is relatively short (a few nucleotides to several hundred in length) 
+
+------------------------------
+Slide 31
+Repetitive Sequences 
+
+
+Some sequences are interspersed throughout the genome 
+Example: Alu family in humans 
+Approximately 300 bp long 
+Represents 10% of human genome 
+Found every 5000-6000 bp 
+Discussed in detail in Chapter 19 
+Other sequences are clustered together in tandem arrays 
+Example: AATAT and AATATAT sequences in Drosophila 
+These are commonly found in the centromeric regions 
+
+------------------------------
+Slide 32
+Structure of Eukaryotic Chromosomes in Nondividing Cells 
+
+
+If stretched end to end, a single set of human chromosomes would be over  
+1 meter  
+long! 
+Yet the cell’s nucleus is only 2 to 4 µm (micrometer: 1,000,000 per meter) in diameter 
+Therefore, the DNA must be tightly compacted to fit within the nucleus 
+The compaction of linear DNA in eukaryotic chromosomes involves interactions between DNA and several different proteins 
+The DNA-protein complex is called  
+chromatin 
+Proteins bound to DNA are subject to change during the life of the cell 
+These changes affect the degree of chromatin compaction 
+
+------------------------------
+Slide 33
+Molecular Structure of the Eukaryotic  
+Chromosome 
+
+
+Chromatin:  Two types. 
+Euchromatin: 
+ (stains lightly) It is uncoiled during interphase and coiled at mitosis.  Most of the genome is euchromatin, which is genetically active. 
+Heterochromatin: 
+ (stains dark) It is highly condensed and genetically inactive (either no genes or genes are turned off) 
+[img33]
+
+UCSF School of Medicine: Histology 
+
+------------------------------
+Slide 34
+Nucleosomes 
+Nucleosome Structure 
+
+
+The repeating structural unit within eukaryotic chromatin is the  
+nucleosome 
+It is composed of a double-stranded segment of DNA wrapped around an octamer of  
+histone proteins 
+A histone octamer is composed of two copies each of four different histone proteins 
+146 bp of DNA make 1.65 negative superhelical turns around the octamer 
+[img34]
+------------------------------
+Slide 35
+Histones (1 of 2) 
+
+
+Histone proteins  
+are basic 
+They contain many positively-charged amino acids 
+Lysine and arginine 
+These bind to the phosphates along the DNA backbone 
+Have a globular domain and a flexible, charged amino terminus or ‘tail’ 
+
+------------------------------
+Slide 36
+Histones (2 of 2) 
+
+
+There are five types of histones 
+H2A, H2B, H3 and H4 are the core histones 
+Two of each make up the octamer 
+H2A, H2B, H3, and H4 histone proteins have the most highly conserved sequence of all know proteins.  H4 of cow vs.  Garden pea is different by 2 aa.   
+H1 is called the linker histone 
+Binds to DNA in the linker region 
+Less tightly bound to DNA than core histones 
+May help compact adjacent nucleosomes 
+H1 is not as highly conserved. 
+
+------------------------------
+Slide 37
+Nucleosome Core Particle 
+[img37]
+
+(b) Molecular model for nucleosome structure 
+
+------------------------------
+Slide 38
+Nucleosomes Showing Linker Proteins 
+[img38]
+
+(c) Nucleosomes showing linker histones and nonhistones proteins 
+
+------------------------------
+Slide 39
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.20  A possible nucleosome structure 
+[img39]
+
+Two molecules each of H2A, H2B, H3, and H4. 
+One molecule of H1 (linker). 
+146 bp around nucleosomes. 
+Compaction factor = 7. 
+[img39]
+------------------------------
+Slide 40
+Nucleosomes Join to Form a 30 nm Fiber (1 of 2) 
+
+
+Nucleosomes associate with each other to form a more compact structure termed the 30 nm fiber 
+Histone H1 plays a role in this compaction 
+At moderate salt concentrations, H1 is removed 
+The result is the classic beads-on-a-string morphology 
+At low salt concentrations, H1 remains bound 
+Beads associate together into a more compact morphology 
+
+------------------------------
+Slide 41
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.19  Nucleosomes connected together by linker DNA and H1 histone to produce  
+	the “beads-on-a-string” extended form of chromatin 
+[img41]
+
+10-nm fiber 
+[img41]
+------------------------------
+Slide 42
+Nucelosome Structure Shown by Electron Microscopy  
+[img42]
+
+(a) H1 histone not bound-beads on a string 
+[img42]
+
+(b) H1 histone bound to linker region-nucleosomes more compact 
+(a and b): © Fritz Thoma, ETH Zurich 
+
+------------------------------
+Slide 43
+Nucleosomes Join to Form a 30 nm Fiber (2 of 2) 
+
+
+The 30 nm fiber shortens the total length of DNA another seven-fold 
+Its structure has proven difficult to determine 
+The DNA conformation may be substantially altered when extracted from living cells 
+Two models have been proposed 
+Solenoid model 
+Three-dimensional zigzag model 
+
+------------------------------
+Slide 44
+Fig 2.25 
+[img44]
+------------------------------
+Slide 45
+The 30 nm Fiber 
+[img45]
+
+(b) Solenoid model 
+[img45]
+
+(c) Zigzag model 
+
+------------------------------
+Slide 46
+Further Compaction of the Chromosome (1 of 2) 
+
+
+The two events we have discussed so far have shortened the DNA about 50-fold 
+A third level of compaction involves interaction between the 30 nm fiber and the  
+nuclear matrix 
+The nuclear matrix is composed of two parts 
+Nuclear lamina 
+Fibers that line the inner nuclear membrane 
+Internal matrix proteins 
+Connected to nuclear lamina and fills interior of nucleus 
+Structural and functional role remains controversial 
+[img46]
+
+Progeria and  
+Lamins 
+[img46]
+------------------------------
+Slide 47
+Further Compaction of the Chromosome (2 of 2) 
+
+
+The attachment of radial loops to the nuclear matrix is important in two ways 
+It plays a role in compaction 
+It serves to organize the chromosomes within the nucleus 
+Each chromosome in the nucleus is located in a discrete and nonoverlapping  
+chromosome 
+  
+territory 
+
+------------------------------
+Slide 48
+The Nuclear Matrix 
+
+
+The nuclear matrix is hypothesized to be an intricate fine network of irregular protein fibers plus many other proteins bound to these fibers. 
+This structure is very dynamic and complex. 
+[img48]
+
+(a) Proteins that form the nuclear matrix 
+
+------------------------------
+Slide 49
+Radial Loop Domains 
+
+
+The third mechanism of DNA compaction involves the formation of  
+radial loop domains 
+25,000 – 200,000 bp 
+Matrix-attachment regions (MARs), or scaffold-attachment regions (SARs),  
+anchored to nuclear matrix 
+[img49]
+
+(d) Radial loop bound to a nuclear matrix filament 
+
+------------------------------
+Slide 50
+Chromosome Territory 
+[img50]
+
+(a) Metaphase chromosomes 
+[img50]
+
+(b) Chromosomes in the cell nucleus during interphase 
+
+
+(a and b): Courtesy of Felix Habermann and Irina Solovei, University of Munich (LMU, Biocenter) 
+
+------------------------------
+Slide 51
+Heterochromatin versus Euchromatin 
+
+
+The compaction level of interphase chromosomes is not completely uniform 
+Heterochromatin 
+Tightly compacted regions of chromosomes 
+Transcriptionally inactive (in general) 
+Radial loop domains compacted even further 
+Euchromatin 
+Less condensed regions of chromosomes 
+Transcriptionally active 
+The 30 nm fiber forms radial loop domains 
+
+------------------------------
+Slide 52
+Types of Heterochromatin 
+
+
+There are two types of heterochromatin 
+Constitutive heterochromatin 
+Regions that are always heterochromatic 
+Permanently inactive with regard to transcription 
+Usually contain highly repetitive sequences 
+Facultative heterochromatin 
+Regions that can interconvert between euchromatin and heterochromatin 
+[img52]
+------------------------------
+Slide 53
+10.6 Structure of Eukaryotic Chromosomes During Cell Division 
+
+
+As cells enter M phase, the level of compaction changes dramatically 
+By the end of prophase, sister chromatids are entirely heterochromatic 
+Two parallel chromatids have an overall diameter of 1,400 nm and are much shorter than in interphase 
+These highly condensed metaphase chromosomes undergo little gene transcription 
+
+------------------------------
+Slide 54
+Levels of Compaction Leading to a Metaphase Chromosome (1 of 2) 
+[img54]
+------------------------------
+Slide 55
+Levels of Compaction Leading to a Metaphase Chromosome (2 of 2) 
+[img55]
+------------------------------
+[img56]Slide 56
+Figure 2.23 Looped domains in metaphase chromosomes.  
+(a)  
+Fiber loops 30 nm  
+attached at scaffold-associated regions to the chromosome scaffold by nonhistone proteins.  
+(b)  
+Schematic of a section of the metaphase chromosome.  
+Shown is the spiraling of looped domains.  
+
+------------------------------
+Slide 57
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+The many different orders of chromatin packing that give rise to the highly  
+	condensed metaphase chromosome 
+[img57]
+------------------------------
+Slide 58
+Metaphase Chromosomes (1 of 2) 
+
+
+In metaphase chromosomes the radial loops are highly compacted and stay anchored to a  
+scaffold 
+The scaffold is formed from the nuclear matrix 
+Histones are needed for the compaction of radial loops 
+
+------------------------------
+Slide 59
+Metaphase Chromosomes (2 of 2) 
+[img59]
+
+(a) Metaphase chromosome 
+(a): © Peter Engelhardt/Department of Virology, Haartman Institute; 
+[img59]
+
+(b) Metaphase chromosome treated with high salt to remove histone proteins 
+(b): © Don W. Fawcett/Science Source 
+
+------------------------------
+Slide 60
+
+
+
+
+Fig. 2.22  Electron micrograph of a metaphase chromosome depleted of histones.  Without histones, the chromosome maintains its general shape by a nonhistone protein scaffold from which loops of DNA protrude. 
+
+------------------------------
+Slide 61
+Condensin and Cohesin Promote the Formation of Metaphase Chromosomes 
+
+
+Two multiprotein complexes help to form and organize metaphase chromosomes 
+Condensin 
+Plays a critical role in chromosome condensation 
+Cohesin 
+Plays a critical role in sister chromatid alignment 
+Both contain a category of proteins called  
+SMC proteins 
+Acronym =  
+S 
+tructural  
+M 
+aintenance of  
+C 
+hromosomes 
+SMC proteins use energy from ATP to catalyze changes in chromosome structure 
+
+------------------------------
+Slide 62
+The Structure of SMC Proteins 
+[img62]
+------------------------------
+Slide 63
+Localization of Condensin 
+
+
+During interphase, condensin is in the cytoplasm 
+Condensin travels into the nucleus 
+Binds to chromosomes  
+Compacts the radial loops 
+[img63]
+------------------------------
+Slide 64
+Alignment of Sister Chromatids via Cohesin 
+[img64]
+------------------------------
+Slide 65
+End of Presentation 
+
+------------------------------

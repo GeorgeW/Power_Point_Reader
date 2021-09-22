@@ -1,0 +1,1397 @@
+Slide 1
+Did he just say that the  
+last  
+exam was the easy exam?! 
+[img1]
+------------------------------
+[img2]Slide 2
+Genetics 
+Analysis & Principles 
+
+
+Sixth Edition 
+[img2]
+
+Chapter 13 
+Translation of mRNA 
+
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+[img2]
+------------------------------
+Slide 3
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+The Protein folding problem: a major conundrum of Science: Ken Hill TED Talk? 
+[img3]
+------------------------------
+Slide 4
+Introduction 
+
+
+The translation of the mRNA codons into amino acid sequences leads to the synthesis of proteins 
+A variety of cellular components play important roles in translation 
+These include proteins, RNAs and small molecules 
+In this chapter we will discuss the current state of knowledge regarding the molecular features of mRNA translation 
+
+------------------------------
+Slide 5
+13.1 The Genetic Basis For Protein Synthesis 
+
+
+Proteins are the active participants in cell structure and function 
+Genes that encode polypeptides are termed protein-encoding genes or structural genes 
+These are transcribed into messenger RNA (mRNA) 
+The main function of the genetic material is to encode the production of cellular proteins 
+In the correct cell, at the proper time, and in suitable amounts 
+
+------------------------------
+Slide 6
+Archibald Garrod (1 of 2) 
+
+
+First to propose (at the beginning of the 20 
+th 
+ century) a relationship between genes and protein production 
+Garrod studied patients who had defects in their ability to metabolize certain compounds 
+He was particularly interested in  
+alkaptonuria 
+Patients bodies accumulate abnormal levels of homogentisic acid (alkapton) 
+Disease characterized by 
+Black urine and bluish black discoloration of cartilage and skin 
+[img6][img6]
+------------------------------
+Slide 7
+Archibald Garrod (2 of 2) 
+
+
+He proposed that alkaptonuria was due to a missing enzyme, namely homogentisic  
+acid oxidase 
+Garrod also knew that alkaptonuria follows a recessive pattern of inheritance 
+He proposed that a  
+relationship exists  
+between the inheritance of the trait and the inheritance of a defective enzyme 
+He described the disease as an  
+inborn error of metabolism 
+
+------------------------------
+Slide 8
+Garrod’s 
+ Hypothesis of Inborn Errors of Metabolism 
+
+
+Garrod’s 
+ work provided the first evidence of a specific relationship between genes and enzymes. That is, suggested that mysterious diseases could be explained as inborn errors of metabolism. 
+In normal people HA is not excreted but is metabolized. 
+Garrod’s 
+ group reasoned that the position of a block in a metabolic pathway can be determined by the accumulation of the chemical compound proceeding the block.  
+In the case of  
+Alkaptonurics 
+, the accumulated chemical compound is  
+homogentistic 
+ acid.  
+
+------------------------------
+Slide 9
+Metabolic Pathway of Phenylalanine Metabolism (Figure 13.1) 
+
+
+Human diseases are caused by mutations resulting in missing or defective enzymes 
+[img9]
+------------------------------
+Slide 10
+Beadle and Tatum’s Experiments (1 of 2) 
+
+
+In the early 1940s, George Beadle and Edward Tatum were also interested in the relationship between genes, enzymes and traits 
+They specifically asked this question 
+Is it  
+One gene–one enzyme 
+ or  
+one gene–many enzymes? 
+Their genetic model was  
+Neurospora 
+  
+crassa 
+  
+(a common bread mold) 
+Their studies involved the analysis of simple nutritional requirements 
+
+------------------------------
+Slide 11
+One Gene-One Enzyme Hypothesis 
+G. Beadle and E. Tatum (1942) 
+
+
+Their work herald the “Beginnings of Biochemical Genetics” 
+They studied the haploid Red Bread Mold  
+	fungus called  
+Neurospora  
+crassa 
+. 
+Showed a direct relationship between genes and enzymes, which is a landmark in genetics and won them the 1958 Nobel Prize in Physiology and Medicine. 
+[img11][img11][img11]
+------------------------------
+Slide 12
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 4.2  Life cycle of the haploid, mycelial-form fungus  
+Neurospora crassa 
+[img12][img12]
+------------------------------
+Slide 13
+Beadle and Tatum’s  
+Experimental Design 
+
+
+Neurospora 
+ has simple growth requirements: 
+Wild-type  
+Neurospora 
+ can grow on simple media containing only inorganic salts (provides nitrogen source), an organic carbon source (glucose or sucrose), and the vitamin biotin (enzyme co-factor). 
+Neurospora 
+ synthesized the other material needed for growth, e.g., amino acids, nucleotides, vitamins, nucleic acids, and proteins.   
+
+------------------------------
+Slide 14
+Beadle and Tatum’s  
+Experimental Design 
+
+
+Because of this nutrient requirement (i.e., make all material needed for growth from minimal material), it was evident that they could isolate nutritional mutants ( 
+auxotrophic mutants or  
+auxotrophs 
+) that required nutritional supplements to grow. 
+The wild type strain that grow on simple  
+minimal media 
+ are called  
+prototrophic mutants or  
+prototrophs 
+.  
+
+------------------------------
+Slide 15
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 4.3  Method devised by Beadle and Tatum to isolate auxotrophic mutations in  
+	 
+Neurospora 
+[img15]
+
+Isolated & characterized 
+Auxotrophic mutations in 
+Neurospora 
+. 
+
+
+Determined which 
+nutrient was needed 
+for auxotrophic  
+strains to grow. 
+
+
+Crossed between each 
+mutant and wild type 
+segregated in the 1:1 
+ratio of wild-type to 
+auxotrophic mutant,  
+which is expected for 
+a single gene defect. 
+
+
+Complete media is 
+Minimal media plus 
+Amino acids,  
+Nucleotides, vitamins, 
+Nucleic acids, and  
+Proteins. 
+
+
+
+
+Animation of Beadle and Tatum’s experiment 
+
+------------------------------
+Slide 16
+Beadle and Tatum’s Experiments (2 of 2) 
+
+
+They analyzed more than 2,000 strains that had been irradiated to produce mutations 
+They analyzed enzyme pathways for synthesis of vitamins and amino acids 
+Figure 13.2 shows  
+an example  
+of their findings on the synthesis of the amino acid methionine 
+
+------------------------------
+Slide 17
+Beadle and Tatum’s Experiments (Figure 13.2) (1 of 2) 
+
+
+Wild type  
+Neurospora 
+ and four mutant strains were each streaked on minimal plates and also on plates supplemented with  
+O- 
+acetylhomoserine 
+,  
+cystathionine 
+,  
+homocysteine 
+, or methionine. 
+[img17]
+
+(a) Growth of strains on minimal and supplemented growth media 
+
+------------------------------
+Slide 18
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 4.4  Methionine biosynthetic pathway showing four genes in  
+Neurospora crassa 
+  
+	that code for the enzymes that catalyze each reaction  
+[img18][img18]
+
+Roche: Biochemical Pathway Electronic chart 
+
+------------------------------
+Slide 19
+Beadle and Tatum’s Experiments (Figure 13.2) (2 of 2) 
+[img19]
+
+(b) Simplified pathway for methionine biosynthesis 
+
+------------------------------
+Slide 20
+Beadle and Tatum’s Experiments 
+
+
+In the normal strains, methionine was synthesized by cellular enzymes 
+In the mutant strains, a genetic defect in one gene prevented the synthesis of one protein required in one step of the pathway to produce that amino acid 
+Beadle and Tatum’s conclusion: 
+ A single gene controlled the synthesis of a single enzyme 
+This was referred to as the  
+one gene–one enzyme 
+ hypothesis 
+
+------------------------------
+Slide 21
+Beadle and Tatum 
+Nobel prize in medicine, 1958 
+One Gene-One Enzyme Hypothesis 
+
+
+Beadle and Tatum were able to determine the sequence of steps in the pathway and related each step to a specific gene or set of genes. 
+Their hypothesis is basically true. 
+However, we now know that 
+More than one gene may control each step in a pathway. 
+An enzyme may have two or more different polypeptide chains, each coded by a different gene. 
+Therefore, the original hypothesis is now 
+		   
+One Gene-One Polypeptide 
+	 
+DSCAM now possibly 38,016  
+	protein isoforms off one gene. 
+Splicing was discovered in 1977 by Phillip Sharp and Richard J. Roberts, Nobel in 1997 
+[img21]
+------------------------------
+Slide 22
+Gene control of Protein Structure 
+
+
+Not all proteins are enzymes! 
+[ 
+nonenzymatic 
+ proteins] >>>>>[enzyme] 
+
+------------------------------
+Slide 23
+For Example 
+Sickle-cell Anemia 
+ 
+
+
+The sickled red blood cell looses it characteristic disc shape in low oxygen tension  
+and forms the sickle cell.  The sickle cell, which is more fragile and less flexible,  
+will clog capillaries, impair circulation and deprive cells of oxygen.  
+[img23]
+
+Normal 
+
+
+Sickled 
+[img23][img23][img23]
+
+Animation of Sickle 
+Cells in blood stream 
+
+------------------------------
+Slide 24
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 4.9  The hemoglobin molecule 
+[img24]
+
+Sickle-cell anemia is caused 
+by changes in hemoglobin, 
+which is the oxygen transporting 
+protein in red blood cells. 
+Homozygous mutants have  
+mutation in both  
+-globin  
+genes, which produces  
+the -polypeptide. 
+Wild-type (  
+A 
+) is codominant  
+with sickle-cell mutation (  
+S 
+). 
+therefore, a heterozygote ( 
+A  
+ 
+S 
+) 
+will have both red blood cells 
+
+------------------------------
+Slide 25
+Modification of One Gene-One Enzyme Theory (1 of 2) 
+
+
+Enzymes are only one category of proteins 
+Some proteins are composed of two or more different polypeptides 
+The term polypeptide denotes structure 
+The term protein denotes function 
+So it is more accurate to say a structural gene encodes a polypeptide. 
+
+------------------------------
+Slide 26
+Modification of One Gene-One Enzyme Theory (2 of 2) 
+
+
+Many genes have been identified that do not encode polypeptides 
+For instance, functional RNA molecules (tRNA, rRNA, etc.) 
+One gene can encode multiple polypeptides through alternative splicing 
+
+------------------------------
+Slide 27
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+What are the components of a protein? 
+General  
+structural formula for an amino acid 
+[img27]
+
+A protein consist of one or more 
+macromolecular subunits called  
+polypeptides. 
+
+
+Except for  
+proline 
+, 
+this is the general 
+structure of amino 
+acids. 
+
+------------------------------
+Slide 28
+Amino Acids 
+[img28]
+
+(a) Nonpolar, aliphatic amino acids 
+[img28]
+
+(b) Aromatic amino acids 
+Nonpolar amino acids are  
+hydrophobic 
+They are often buried within the interior of a folded protein 
+
+
+You must know the single letter designation of each amino acid (AA) and to which family 
+does an AA belong too.  Ability to draw AA structure is not necessary.  Just 
+know overall family of AA and why AA belongs to that family!!!!!!!!!!! 
+
+------------------------------
+Slide 29
+Amino Acids (2 of 3) 
+[img29]
+
+(c) 
+  
+Polar, neutral amino acids 
+[img29]
+
+(d) Polar, acidic amino acids 
+
+------------------------------
+Slide 30
+Amino Acids (3 of 3) 
+[img30]
+
+(e) Polar, basic amino acids 
+[img30]
+
+(f) Nonstandard amino acids 
+Polar and charged amino acids are  
+hydrophilic 
+They are more likely to be on the surface of a protein 
+
+------------------------------
+Slide 31
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.3  Mechanism for peptide bond formation between the carboxyl group of one  
+	amino acid and the amino group of another amino acid 
+[img31]
+
+It is the sequence of amino acids in a polypeptide that gives 
+the polypeptide its 3-dimensional shape and its properties 
+in a cell. 
+
+
+Polypeptide- is a linear, unbranched molecule consisting of amino 
+acids joined by a peptide bond. 
+
+
+
+
+
+------------------------------
+Slide 32
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.4  Four levels of protein structure 
+[img32]
+------------------------------
+Slide 33
+Beta Pleated Sheets 
+
+
+https://www.youtube.com/watch?v=wM2LWCTWlrE 
+[img33][img33]
+------------------------------
+Slide 34
+What is the difference between a polypeptide and a protein? 
+ 
+
+
+David  
+Talaga 
+, Professor of Physical Chemistry 
+Written Mar 10, 2015 
+Polypeptide refers to a polymer linked by peptide bonds. Peptide bonds are formed by a condensation reaction between amino acids. So a polypeptide has amino acids as the monomer unit. 
+ 
+All proteins are polypeptides. 
+ 
+Protein scientists typically distinguish between polypeptides and proteins based on structure. Proteins are polypeptides that fold into a fixed structure. Most polypeptides shorter than about 40 amino acids in length do not fold. So, you will often see people use polymer length to distinguish proteins from polypeptides.  
+ 
+To summarize: 
+All proteins are polypeptides. 
+Proteins tend to have a well defined 3D structure. 
+The term polypeptides is often reserved for the shorter, unstructured polypeptides that do not fold into a protein structure. 
+
+------------------------------
+Slide 35
+Genetic Code is a Triplet Code 
+
+
+Crick et. al., performed genetic experiments using the bacteriophage T4 ( 
+rII 
+ mutants). 
+In these experiments, they used a mutagen ( 
+proflavin 
+) which causes a frameshift or reversion type mutation. 
+Determined that a set of 3 nucleotides (a codon) in mRNA codes for one amino acid in a polypeptide chain. 
+
+------------------------------
+Slide 36
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings 
+. 
+
+
+
+
+
+
+Fig. 6.5  Reversion of a deletion frameshift mutation by a nearby addition mutation 
+[img36]
+------------------------------
+Slide 37
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.6  Hypothetical example showing how three nearby + (addition) mutations  
+	restore the reading frame, giving normal or near-normal function 
+[img37]
+
+Crick concluded that the genetic code is a triplet code 
+
+------------------------------
+Slide 38
+Deciphering the Genetic Code 
+
+
+Using a Cell-free, protein-synthesizing system from  
+E. coli 
+ and synthetic mRNAs, researchers determined that the genetic code had the following properties: 
+Triplet Code 
+The code is comma-free; i.e., it is continuous. 
+It is non-overlapping 
+It is almost universal (mitochondria) 
+The code is degenerate. 
+Has start and stop signals. 
+
+------------------------------
+Slide 39
+The Genetic Code (Table 13.1) 
+
+
+TABLE 13.1 
+The Genetic Code 
+[img39]
+------------------------------
+Slide 40
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.7  The genetic code 
+[img40]
+
+Sense Codons: 61 of 64 codons 
+specify an amino acid. 
+AUG is the start codon. 
+Non-sense Codons:  remaining  
+three are stop codons, that do  
+not specify an amino acid. 
+UAG (amber) 
+UAA (ocher) 
+UGA (opal) 
+AUG                                UAG 
+Have to be in the same  
+reading frame 
+
+
+
+
+Degeneracy 
+
+
+The origin of the single-letter code for the amino acids 
+
+
+Dr. Margaret  
+Dayhoff 
+
+------------------------------
+Slide 41
+Other Exceptions to the Genetic Code 
+
+
+Selenocysteine and pyrrolysine are sometimes called the 21st and 22nd amino acids 
+Found in specialty enzymes 
+Encoded by UGA and UAG codons, respectively 
+Attached by tRNAs that carry them to the ribosome 
+Codon and downstream sequences in mRNA are needed to incorporate these amino acids 
+
+------------------------------
+Slide 42
+13.4 Structure And Function Of tRNA 
+
+
+In the 1950s, Francis Crick proposed the adaptor hypothesis 
+	 
+tRNAs 
+  
+play a direct role in the recognition of  
+	codons  
+in the mRNA 
+In particular, the hypothesis proposed that tRNA has two functions 
+	Recognizing  
+a 3-base codon in mRNA 
+	Carrying  
+an amino acid that is specific for that  
+	codon 
+
+------------------------------
+Slide 43
+Recognition Between tRNA and mRNA (1 of 2) 
+
+
+During mRNA-tRNA recognition, the anticodon in tRNA binds to a complementary codon in mRNA 
+tRNAs are named according to the amino acid they bear 
+The anticodon is anti-parallel to the codon 
+Figure 13.9 
+
+------------------------------
+Slide 44
+Recognition Between tRNA and mRNA (2 of 2) 
+[img44]
+------------------------------
+Slide 45
+Wobble Occurs in the Anticodon of the  
+tRNA 
+
+
+
+------------------------------
+Slide 46
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.8  Example of base-pairing wobble 
+[img46]
+
+Wobble in the  
+Leu 
+  
+tRNA 
+
+------------------------------
+Slide 47
+
+
+
+
+
+
+Fig. 6.9 Transfer RNA 
+
+
+75 to 90 nucleotides long 
+Each one has a different sequence 
+Cloverleaf shape 
+All  
+tRNAs 
+ have  the 5’-CCA-3’ 
+Sequence, which is where  the  
+amino acid attaches to the A 
+All  
+tRNAs 
+ have bases, whose chemical 
+Structure has been modified by enzymes  
+
+------------------------------
+Slide 48
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.10 Charging of a tRNA molecule by aminoacyl-tRNA synthetase to produce an  
+	aminoacyl-tRNA (charged tRNA) 
+[img48]
+
+Know that 
+Each AA has its 
+own aminoacyl- 
+tRNA 
+  
+synthetase 
+  
+and the basic  
+concept  
+of charging. 
+
+------------------------------
+Slide 49
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.11  Molecular details of the attachment of an amino acid to a tRNA molecule 
+[img49]
+------------------------------
+Slide 50
+Overview of Gene Expression (Figure 13.3) 
+[img50]
+------------------------------
+Slide 51
+A Polypeptide Chain has Directionality 
+
+
+Polypeptide synthesis has a directionality that parallels the 5’ to 3’ orientation of mRNA 
+During each cycle of elongation, a peptide bond is formed between  
+the carboxyl  
+group of the last amino acid in the polypeptide chain and the amino group in the amino acid being added 
+The first amino acid has  
+an exposed  
+amino group 
+Said to be N-terminal or amino terminal end 
+The last amino acid has  
+an exposed carboxyl  
+group 
+Said to be C-terminal  
+or carboxyl  
+terminal end 
+Refer to Figure 13.4 
+
+------------------------------
+Slide 52
+A Polypeptide Chain has Directionality (Figure 13.4) 
+[img52]
+
+(a) 
+  
+Attachment of an amino acid to a peptide chain 
+[img52]
+
+(b) Directionality in a polypeptide and mRNA 
+
+------------------------------
+Slide 53
+Aminoacyl- 
+tRNA 
+  
+Synthetase 
+ Enzymes Recharge Specific  
+tRNAs 
+  
+
+
+20 amino acids = 20 aminoacyl- 
+tRNA 
+  
+synthetases 
+Synthetases 
+ are highly specific for  
+tRNA 
+; few errors occur. 
+Nucleotide sequence of  
+tRNA 
+ specifies which aminoacyl- 
+tRNA 
+  
+synthetase 
+ uses it for covalently attaching the specific amino acid. 
+
+------------------------------
+Slide 54
+
+
+
+
+
+
+
+
+Fig. 6.12 Molecular model of the complete (70s) bacterial ribosome 
+
+------------------------------
+Slide 55
+Composition of Bacterial and Eukaryotic Ribosomes (1 of 2) 
+
+
+TABLE 13.5 
+Composition of Bacterial and Eukaryotic Ribosomes 
+[img55]
+
+Small Subunit 
+[img55]
+
+Large Subunit 
+[img55]
+
+Assembled ribosome 
+
+------------------------------
+Slide 56
+
+
+
+
+
+
+
+
+Fig. 6.13 Composition of whole ribosome and of ribosomal subunits in (a) bacterial and in (b) mammalian cells 
+
+
+[Humans = 5025  
+nt 
+] 
+
+------------------------------
+Slide 57
+
+
+
+
+
+
+
+
+Fig. 6.14 Structure of the ribosome showing the path of mRNA through the small subunit, and the three sites to which tRNAs bind at different stages of polypeptide synthesis and the exit path for the polypeptide chain. 
+
+------------------------------
+Slide 58
+Functional Sites of Ribosomes 
+  
+(2 of 2) 
+[img58]
+
+(a) Bacterial ribosome model based on X-ray diffraction studies 
+(a): ©  
+Dr. Elena  
+Kiseleva 
+/SPL/Science Source 
+[img58]
+
+(b) Model for ribosome structure  
+(b): ©  
+Tom Pantages 
+
+------------------------------
+Slide 59
+Three Steps to Translation: 
+Initiation > Elongation > Termination 
+
+
+Initiation Codon:  AUG 
+In Prokaryotes, start AUG codes for formyl-Methionine ( 
+fMet 
+), while an AUG within the coding sequence codes for a methionine. 
+In Eukaryotes, start AUG codes for a special  
+tRNA 
+-Met, while another  
+tRNA 
+-Met is used for internal AUGs in the coding sequence  
+Accessory factors, e.g., initiation factors, are not required knowledge for this course.  Just know that additional factors play a role.  
+
+------------------------------
+Slide 60
+Overview of Translation (Figure 13.14) 
+[img60]
+------------------------------
+Slide 61
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.15  Initiation of protein synthesis in  
+prokaryotes 
+[img61]
+
+Binds the 16S  
+rRNA 
+ in the ribosome. 
+
+
+
+
+
+
+P site = peptidyl site 
+A site = aminoacyl site 
+E site = Exit site 
+
+
+
+
+Initiation 
+
+------------------------------
+Slide 62
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6	 Sequences of some prokaryotic ribosome-binding sites 
+[img62]
+
+GUG can be used as 
+an initiating codon in 
+some systems. 
+
+
+
+
+Shine- 
+Dalgarno 
+ sequence, which is not found in eukaryotes, 
+binds the 16S  
+rRNA 
+ of the 30S ribosomal subunit.  Once bound, 
+the 30S subunit can identify the initiating codon. 
+
+
+
+
+
+
+Shine- 
+Dalgarno 
+ sequence is 8 to 
+12 bases 5’ to AUG start codon 
+. 
+
+------------------------------
+Slide 63
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.16  Sequences involved in the binding of ribosomes to the mRNA in the  
+	initiation of protein synthesis in prokaryotes 
+[img63]
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+------------------------------
+Slide 64
+Initiation of Translation Animation 
+
+------------------------------
+Slide 65
+Initiation of Translation in Eukaryotes 
+
+
+Initiation is similar in Eukaryotes, called  
+Scanning model for initiation 
+, the main differences are: 
+The initiator methionine is unmodified, but uses a special  
+tRNA 
+. 
+No Shine- 
+Dalgarno 
+ sequence is used. 
+Eukaryotes use another way to find the initiating codon: 
+First an initiation factor, eIF-4F, which is a  
+multimer 
+ of several proteins that include the cap-binding protein, binds the cap at the 5’ end of the mRNA. 
+Then a complex of 40S ribosomal subunit, initiating Met- 
+tRNA 
+, several  
+eIF 
+ proteins and GTP bind and then scan the mRNA for Initiation AUG Codon that is buried in a short sequence called the  
+Kozak 
+ sequence  
+( 
+gccRccAUGG 
+) 
+.    
+Typically, the first AUG of the mRNA is the Start. 
+
+------------------------------
+Slide 66
+eIF-4F 
+
+
+
+
+40S 
+
+
+GTP 
+
+
+
+
+Met-tRNA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60S 
+
+
+40S 
+
+
+
+
+
+
+AUG is located in 
+Kozak sequence 
+
+------------------------------
+Slide 67
+Elongation 
+Binding of aminoacyl- 
+tRNA 
+  >  peptide bond > Translocation of ribosome  
+
+
+Binding of aminoacyl- 
+tRNA 
+ to empty A site ( 
+fMet-tRNA 
+ is in P site) 
+Formation of peptide bond by peptidyl transferase 
+Translocation of ribosome on mRNA one codon at a time. 
+
+------------------------------
+Slide 68
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.17	 Elongation stage of translation in prokaryotes 
+[img68]
+
+Elongation factors 
+needed for bringing in  
+charged  
+tRNAs 
+. 
+
+------------------------------
+Slide 69
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.18 The formation of a peptide bond between the first two amino acids of a  
+	polypeptide chain is catalyzed on the ribosome by peptidyl transferase 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+[img69]
+
+23S  
+rRNA 
+ is the peptidyl transferase and the ribosomal Subunits are the  
+structural units that organize the  
+rRNA 
+ into ribozyme elements.   
+28S  
+rRNA 
+ in mammals has the same function. 
+
+------------------------------
+Slide 70
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.19  Diagram of a polysome, a number of ribosomes each translating the same  
+	mRNA sequentially 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+[img70]
+
+In bacteria and eukaryotes, once the ribosome leaves the initiation codon, another  
+initiation event can occur.  Can work simultaneously. 
+
+
+Polysome 
+
+------------------------------
+Slide 71
+Animation for the elongation of the polypeptide chain 
+
+------------------------------
+Slide 72
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.20 Termination of translation 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+In both Eukaryotes and  
+Prokaryotes, 
+The Met and  
+fMet 
+  
+are cleaved from  
+The complete peptide 
+Ribosomal Recycling  
+Factor is needed  for  
+Deconstruction of the  
+Remaining complex of  
+Ribosomal subunits, mRNA, 
+and uncharged  
+tRNA 
+. Now  
+the ribosome and  
+tRNA 
+ may be recycled 
+
+
+
+------------------------------
+Slide 73
+Animation of Translation Termination 
+
+------------------------------
+Slide 74
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6. Movement of secretory proteins through the cell membrane system 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+[img74]
+
+
+
+Eukaryotic cells are 
+Compartmentalize:  Nucleus,  
+mitochondria, lysosomes 
+and chloroplast have specific sets  
+of proteins.  The sorting of these 
+proteins is under genetic control. 
+There is a common sorting  
+mechanism for secreted  
+proteins, membrane 
+bound proteins and lysosomal 
+proteins. 
+Prokaryotes have proteins that  
+End up in cytoplasm or  
+cell membrane  
+
+------------------------------
+Slide 75
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 6.21 Model for the translocation of proteins into the endoplasmic reticulum in  
+	eukaryotes 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+[img75]
+
+Secreted proteins, membrane bound proteins and lysosomal proteins 
+
+------------------------------
+Slide 76
+Mitochondria and Chloroplast 
+
+
+Ribosomal proteins, enzymes of electron transport system and enzyme for photosynthesis are all translocated from the cytoplasm (not in association with membrane) and are  
+posttranslationally 
+ transported into these organelles. 
+N-terminus has a “transit sequence” for import into specific organelle and the sequence is then removed. 
+
+------------------------------
+Slide 77
+Nucleus 
+
+
+Ribosomal proteins (for assembly), histones and  
+nonhistone 
+ chromosomal proteins, Gene regulatory proteins and Enzymes for replication, repair, recombination, transcription and RNA processing. 
+Nuclear proteins have a nuclear localization sequence, which has them  
+posttranslationally 
+ transported without the removal of the localization sequence. 
+
+------------------------------
+Slide 78
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Current Model of Eukaryotic Translation and its Regulation 
+
+
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+[img78]
+
+RNA-induced  
+silencing  
+complex  
+( 
+RISC),  
+the  
+miRNA  
+and  
+its mRNA  
+target  
+interact. 
+
+
+DNAi 
+ Molecular  
+Model of Translation 
+
+
+Model  
+of  
+mRNA 
+Circle 
+For 
+Translation 
+
+------------------------------
+Slide 79
+Drew Berry: Body Code 
+
+
+https://www.youtube.com/watch?v=TfYf_rPWUdY 
+
+------------------------------

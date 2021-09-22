@@ -1,0 +1,1020 @@
+Slide 1
+Lets talk about Mutations 
+[img1]
+------------------------------
+[img2]Slide 2
+Genetics 
+Analysis & Principles 
+
+
+Sixth Edition 
+[img2]
+
+Chapter 19 
+Gene Mutation and DNA Repair 
+
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+
+
+Blame it on the DNA 
+
+------------------------------
+Slide 3
+The Evolution of Bacteria on a Mega-plate petri dish 
+[img3]
+
+This visually illustrates the impact of mutations on Evolution 
+
+------------------------------
+Slide 4
+Introduction 
+
+
+The term mutation refers to a heritable change in the genetic material 
+Mutations provide allelic variations 
+On the positive side 
+, mutations are the foundation for evolutionary change needed for a species to adapt to changes in the environment 
+On the negative side 
+, new mutations are much more likely to be harmful than beneficial to the individual and often are the cause of diseases 
+
+------------------------------
+Slide 5
+Introduction 
+
+
+Understanding the molecular nature of mutations is a deeply compelling area of research. 
+Since mutations can be quite harmful, organisms have developed ways to repair damaged DNA 
+
+------------------------------
+Slide 6
+Genetic material can be changed through a number of ways 
+
+
+Spontaneous changes 
+Error in the replication process 
+Actions of particular chemicals or radiation 
+
+
+Two types of changes: 
+Involving the whole chromosome 
+Involving one or a few base pairs 
+
+
+Base pair changes can be repaired by all organisms 
+
+------------------------------
+Slide 7
+Mutation in protein coding region 
+alters the protein structure. 
+[img7]
+
+Note: 
+ Not all mutations lead to altered proteins. 
+ Not all mutations are in protein coding regions. 
+
+------------------------------
+Slide 8
+Mutations Defined 
+A Mutation is the process by which a DNA base-pair or a chromosomal change is produced. 
+
+
+Somatic Mutations: 
+Mutant cell gives rise only to somatic cells.  
+Mutation is not passed on to offspring. 
+
+
+Germ-line mutation: 
+Mutation in germline (egg or sperm precursors) 
+Mutation is passed on to offspring. 
+
+
+A mutation within a protein coding region is called a 
+Gene Mutation 
+
+------------------------------
+Slide 9
+Gene Mutations 
+
+
+Gene mutations are molecular changes in the DNA sequence of a gene 
+A  
+point mutation 
+ is a change in a single base pair 
+It can involve a  
+base substitution 
+5 
+’ 
+ AACGC 
+T 
+AGATC 3 
+’  
+  
+5 
+’ 
+ AACGC 
+G 
+AGATC 3 
+’ 
+A  
+transition 
+ is an interchange of a pyrimidine (C, T) or purine (A, G), which involves bases of similar shape 
+A transversion 
+ is an interchange between pyrimidines and purines, which involves exchange of one-ring and two-ring structures or vice versa. 
+Transitions are more common than  
+Transversions 
+[img9]
+------------------------------
+Slide 10
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.3a-d  Types of base-pair substitution mutations: Affects on a single base-pair 
+[img10]
+
+Termination of translation occurs 
+
+
+*** 
+Point Mutation 
+*** 
+
+
+Mutation 
+Causing  
+Change 
+In 
+Coding 
+Sequence 
+
+------------------------------
+Slide 11
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.3e-g  Types of base-pair substitution mutations 
+[img11]
+
+No change  
+in  
+protein  
+function 
+
+
+
+
+
+
+Addition or deletion 
+of base-pair 
+
+
+Mutation 
+Causing  
+Change 
+In 
+Coding 
+Sequence 
+
+------------------------------
+Slide 12
+Gene Mutations Outside of Coding Sequences 
+
+
+Gene mutations outside of coding sequences can still affect phenotype 
+Mutations in the core promoter can change levels of gene expression; it can either  
+Up promoter =>mutations 
+ increase expression. 
+or 
+Down promoter =>mutations 
+ decrease expression 
+
+------------------------------
+Slide 13
+Gene Mutations Outside of Coding Sequences 
+
+
+TABLE 19.2 
+Possible Consequences of Gene Mutations Outside of a Coding Sequence 
+
+------------------------------
+Slide 14
+Mutations Based on Their Effects on Wild-Type Phenotype 
+
+
+Mutations can also be described based on their effects on the wild-type phenotype 
+They are often characterized by their differential ability to survive 
+Deleterious mutations 
+ decrease the chances of survival 
+The most extreme are  
+lethal mutations 
+Beneficial mutations 
+ enhance the survival or reproductive success of an organism 
+The environment can affect whether a given mutation is deleterious or beneficial 
+Some mutations are  
+conditional 
+They affect the phenotype only under a defined set of conditions 
+An example is a temperature-sensitive mutation 
+
+------------------------------
+Slide 15
+  
+Forward mutation – mutation that changes wild type to 			  mutant 
+ Reverse mutation (reversion or back mutations) 
+	 
+	Mutant to wild type: 
+True reversion:    Back to wild type amino acid 
+Partial reversion: Back to another amino acid, 			        	    with the Restoration of function 
+
+
+  
+Suppressor mutation: diminish or abolish the effects of a mutation 
+ Mutation at a different position than the original mutation 
+ No reversal of original mutation  
+
+
+Direction of Mutation Impact 
+
+------------------------------
+Slide 16
+Two types of suppressor mutations 
+Intragenic and intergenic suppressors 
+
+
+  
+Intragenic suppressors: 
+ Same gene as original mutation 
+ Alter a nucleotide in the same codon 
+		wild type     	CGU 		Arg 
+		mutation	AGU		Ser 
+		suppressor	AGA		Arg 
+ Or in a different codon 
+ Protein functional or partially functional 
+  
+Intergenic suppressors:   
+Suppression of a mutational defect by 				a second mutation in another gene. 
+ Functional or partially functional protein 
+
+------------------------------
+Slide 17
+Suppressor Mutations 
+
+
+TABLE 19.3 
+Examples of Suppressor Mutations 
+Type:  
+Intragenic 
+No Mutation 
+[img17]
+
+Transport can occur 
+
+------------------------------
+Slide 18
+Suppressor Mutations 
+
+
+First Mutation (x) 
+[img18]
+
+Transport inhibited 
+
+
+Second Mutation (x) 
+[img18]
+
+Transport can occur 
+
+
+Description 
+A first mutation disrupts normal protein function, and a suppressor mutation affecting the same protein restores function. In this example, the first mutation inhibits transport function, and the second mutation restores it. 
+
+------------------------------
+Slide 19
+Changes in Chromosome Structure Can Affect Gene Expression 
+
+
+A chromosomal rearrangement may affect a gene because the chromosomal  
+breakpoint 
+ (site of breaking and rejoining) occurs within the gene 
+A gene may be left intact, but its expression may be altered because of its new location 
+This is termed a  
+position effect 
+	 
+There are two common reasons for position effects: 
+1.  Movement to a position next to regulatory sequences 
+2.  Movement to a heterochromatic region 
+			       
+For Example 
+
+------------------------------
+Slide 20
+1) Position Effect Due to movement next to a Regulatory Sequences 
+[img20]
+
+(a) 
+  
+Position effect due to regulatory sequences 
+Regulatory sequences are often bidirectional, so gene A may now show the expression pattern of gene B 
+Figure 19.2a 
+
+------------------------------
+Slide 21
+2) Movement by Translocation to Heterochromatic Region Reduces Expression of Eye Color Gene 
+[img21]
+
+(b) 
+  
+Position effects due to translocation to a heterochromatic chromosome 
+
+------------------------------
+Slide 22
+Mutations can Occur in Germ-Line or Somatic Cells 
+
+
+Geneticists classify animal cells into two types 
+Germ-line cells 
+Cells that give rise to gametes such as eggs and sperm 
+Somatic cells 
+All other cells 
+Germ-line mutations 
+ are those that occur directly in a sperm or egg cell, or in one of their precursor cells 
+Somatic mutations 
+ are those that occur directly in a body cell, or in one of its precursor cells 
+
+------------------------------
+Slide 23
+Effects of Germ-line and Somatic Mutations 
+
+
+Germ-line mutations  
+occur in gametes 
+Passed to half of the gametes in the next generation 
+Patches of affected area are found after  
+somatic mutation 
+The size of the patch will depend on the timing of the mutation. The earlier the mutation, the larger the patch 
+An individual with somatic regions that are genotypically different from is called a  
+genetic mosaic 
+Mutations not present in gametes 
+
+------------------------------
+Slide 24
+Examples of  
+Effects of Germ-line and Somatic Mutations 
+[img24]
+------------------------------
+Slide 25
+Causes of Mutations 
+
+
+Spontaneous: 
+  
+	Occur naturally 
+Error in cellular processing (e.g., DNA replication) 
+Mutagen in the environment (e.g., UV irradiation) 
+
+
+Induced:  
+	Unnatural 
+Treatment with a known chemical or physical mutagen 
+
+------------------------------
+[img26]Slide 26
+Spontaneous mutations can result from errors in DNA replication or 
+spontaneous chemical changes in DNA. 
+
+
+DNA replication:  Point mutations, 
+Additions, and deletions. 
+Base pair substitutions: 
+	 
+     Mismatch base pairs. 
+    Mismatching is due to  
+   “wobble” pairing of bases. 
+Spatial positioning of bases allows for the formation of hydrogen bonds between mismatched pairs. 
+If uncorrected before replication, mutation can become fixed as a mutant. 
+
+------------------------------
+Slide 27
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.7  Production of a mutation as a result of a mismatch caused by wobble base  
+	pairing 
+[img27]
+
+Fixed  
+Mutation 
+
+------------------------------
+Slide 28
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.8  Spontaneous generation of addition and deletion mutants by DNA  
+	looping-out errors during replication 
+[img28]
+
+Occurs in a “run” 
+of the same base 
+
+
+Deletion 
+
+
+Addition 
+
+------------------------------
+Slide 29
+Causes of Spontaneous Mutations 
+
+
+Spontaneous mutations can arise by three types of chemical changes 
+	1. 	 
+Depurination 
+	2. 	Deamination 
+	3. 	Tautomeric shift 
+
+------------------------------
+Slide 30
+Spontaneous Chemical Changes 
+
+
+Depurination:   
+Purine base for A or G is removed from  
+	DNA, i.e, base is lost but the deoxyribose is retained. 
+	1000’s of purines are lost per generation time of a  
+	mammalian cell in tissue culture. 
+	Fortunately, these apurinic sites can be repaired. 
+	But, If not corrected, no complimentary base on strand.   
+	A random base is then selected, which more likely 
+	results in a mutation. 
+
+------------------------------
+Slide 31
+Depurination Followed by Replication 
+[img31]
+
+(a) 
+  
+Depurination 
+[img31]
+
+(b) Replication over an apurinic site 
+
+------------------------------
+Slide 32
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Deamination 
+ of cytosine to uracil (a); deamination of 5-methylcytosine to thymine 
+[img32]
+
+Deamination 
+Small amount of 5-methylcytosine in cells 
+
+
+Uracil is not in DNA. So, repair 
+system removes most of the uracil. 
+Minimal mutations:  If not  
+repaired, adenine is in the  
+new strand. 
+No repair system, since thymine 
+is a normal base in DNA. 
+CG to TA transition occurs. 
+This occurs at mutational  
+Hotspots. 
+
+------------------------------
+Slide 33
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Distribution of spontaneous GC-to-AT transition mutations to stop codons  
+	in the  
+lac 
+ repressor gene of  
+E. coli 
+[img33]
+
+Deamination: Mutational Hotspots on lac repressor gene. 
+
+------------------------------
+Slide 34
+Tautomeric Shift 
+
+
+A temporary change in base structure 
+The common, stable form of thymine and guanine is the  
+keto 
+ form 
+Rarely, T and G convert to an  
+enol 
+ form 
+The common, stable form of adenine and cytosine is the  
+amino 
+ form 
+Rarely, A and C can convert to an  
+imino 
+ form 
+[img34]
+------------------------------
+Slide 35
+Tautomeric Shift 
+
+
+These rare forms promote AC and GT base pairs 
+[img35]
+
+Mistakes in base pairing 
+
+------------------------------
+Slide 36
+Tautomeric Shift 
+
+
+To cause mutation, tautomeric shift must occur immediately prior to replication 
+[img36]
+
+Tautomeric shifts and DNA replication can cause mutation 
+
+------------------------------
+Slide 37
+Induced Mutations 
+
+
+Ionizing radiation:  
+X-rays bombard atoms making ions. 
+	This breaks chemical bonds in DNA and creates 
+	chromosomal breakage, chromosomal rearrangements 
+	and point mutations. 
+	High doses of X-rays kills cells and 
+	Low doses (certain levels) induce point mutations: 
+		Two times amount of ionizing radiations induces 
+		twice the amount of point mutations. 
+	Therefore, the effects are cumulative. 
+		A certain dose of ionizing radiation induces a 	 
+		certain amount of point mutations, i.e., same dose 
+		for short period of time or long period equal the 
+		same number of point mutations. 
+Always be concerned about the amount of X-rays  
+your are exposed too. 
+[img37]
+
+UT Austin Diagnostic Nuclear Reactor 
+[img37]
+
+Reed College Reactor 
+[img37]
+
+Fukushima Daiichi nuclear disaster 
+Found 2-meter hole in the metal grating under the  
+pressure vessel in the reactor’s primary  
+containment vessel, which was caused by the fuel  
+escaping the pressure vessel in a Nuclear meltdown.  
+Radiation levels of about  
+530 sieverts per hour!!!! 
+have been detected in the containment vessel  
+of reactor No. 2. 
+
+------------------------------
+Slide 38
+How many Sieverts of Radiation will kill you? 
+
+
+One Sievert equals 1,000 millisieverts (mSv). 	One millisievert is 1,000 microsieverts. 
+Below are some facts about the health dangers posed by higher radiation levels: 
+* People are exposed to natural radiation of 2-3 mSv a year. 
+* In a CT scan, the organ being studied typically receives a radiation dose of 15 mSv in an adult to 30 mSv 	in a newborn infant. 
+* A typical chest X-ray involves exposure of about 0.02 mSv, while a dental one can be 0.01 mSv. 
+* Exposure to 100 mSv a year  
+is the lowest level at which any increase in cancer risk is clearly evident.  
+	A cumulative 1,000 mSv (1 sievert) would probably cause a fatal cancer many years  
+	later in five out of every 100 persons exposed to it. 
+***  
+A single one Sievert ( 
+1,000 mSv) dose causes radiation sickness such as nausea, vomiting, 	hemorrhaging, but not death. *** 
+*** A single dose of 5 Sieverts would kill about half of those  
+exposed to it within a month.**** 
+
+
+Japanese Nuclear Reactor core: 530 Sieverts per hour!!!! 
+
+------------------------------
+Slide 39
+Induced Mutations 
+
+
+
+
+UV or ultraviolet radiation is not an ionizing radiation! 
+	Induces mutations by inducing photochemical  
+	changes in the DNA molecule. 
+FYI: Premature Aging 
+[img39]
+
+Half of man's face dramatically AGED by sun damage 
+LINDSAY GOLDWERT 
+New York Daily News 
+Monday, June 04, 2012 
+You can keep the window up but you can’t escape the sun’s rays. 
+The New England Journal of Medicine has published a shocking  
+photo of a 69 year-old man with unilateral dermatoheliosis  
+-- severe damage from ultraviolet rays on one side of his face. 
+The unnamed man, who gave permission for his photo to be  
+used in new stories, told researchers that he had driven a  
+delivery truck for 28 years.Ultraviolet A (UVA) had penetrated  
+the window glass, damaging  
+the outermost layers and sublayers of his skin. 
+
+------------------------------
+Slide 40
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.10  Production of thymine dimers by ultraviolet light irradiation 
+[img40]
+
+Abnormal chemical bonds are induce between adjacent 
+Pyrimidines. 
+
+
+Bulge created by thymine dimer:  Most are repaired, but 
+	repair process can sometimes cause mutations. 
+
+
+
+
+Can have C=C and C=T 
+
+------------------------------
+Slide 41
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.11 Chemical Mutagens: Mutagenic effects of the base analog 5-bromouracil (5BU) 
+[img41]
+
+Chemical Mutagens 
+All cause mutations 
+indirectly by inducing repair mechanisms. 
+Base analogs like 5-bromouracil can  
+change from normal to rare states. 
+Other examples of analogs 
+     2-AP 
+     AZT or azidothymidine 
+	Substrate for reverse transcriptase 
+	and leads to chain termination. 
+
+------------------------------
+Slide 42
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.12a  Chemical Mutagens: Action of three base-modifying agents 
+[img42]
+
+Three types of Chemical Mutagens that modify bases: 
+	1)  Deaminating agents 
+
+
+Nitrous acid can  
+be formed by the 
+digestion of Nitrites 
+(preservatives) 
+in food. 
+
+------------------------------
+Slide 43
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.12 Chemical Mutagens: Action of three base-modifying agents 
+[img43]
+
+2) Hydroxylating 
+     Agents 
+Found in Cosmetics  
+and some foods 
+3) Alkylating 
+     Agents 
+
+
+Exposure of alkylating agents is at a minimum level in daily life. However, vegetables, drinking water, beer, tobacco, various drugs, processed cheese, meat and fish products contain a  
+considerable amount of alkylating agents. Smoked and salted meat-fish consumption is found to be related with an increased risk of mouth, pharynx, esophagus, colon and gastric cancers 
+. 
+
+------------------------------
+Slide 44
+Chemical Mutations 
+Base Analogues (similar structure) can cause Mutations 
+
+
+Become incorporated into daughter strands during DNA replication 
+For example,  
+5-bromouracil 
+ is a thymine analogue 
+It can be incorporated into DNA instead of thymine 
+A tautomeric shift can result in pairing with guanine 
+
+------------------------------
+Slide 45
+Base Analogues 
+[img45]
+
+(a) Base pairing of 5BU (a thymine analog) with adenine or guanine 
+
+------------------------------
+Slide 46
+5-bromouracil Causes Mutations During DNA Replication  
+Figure 19.13b 
+[img46]
+
+(b) How 5BU causes a mutation in a base pair during DNA replication  
+
+------------------------------
+Slide 47
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.13 Chemical Mutagens: Intercalating mutations 
+[img47]
+
+Intercalating Agents: 
+  Include proflavin, acridin, 
+  and ethidium bromide. 
+These agents act by inserting 
+themselves (intercalating) 
+between adjacent bases in one or 
+both strands of DNA. 
+
+
+Chemical Mutations that Insert 
+into Structure of DNA 
+
+------------------------------
+Slide 48
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Site-specific mutagenesis using PCR 
+[img48]
+
+*Scientist  
+can  
+induce  
+point  
+mutations.* 
+
+------------------------------
+Slide 49
+Natural, Spontaneous Mutations 
+
+
+All types of point mutations can occur spontaneously. 
+Quantitative measurements of how often a spontaneous mutation occurs. 
+Mutational rate:  Probability of particular kind of mutation  
+	as function of time. 
+		number per nucleotide per generation 
+				or 
+		number per gene per generation 
+			10 
+-4 
+ to 10 
+-5 
+ per gene per generation 
+Mutational Frequency:  Number of occurrences of a mutation  
+	expressed as a proportion of cells or individuals in a population. 
+		number per 100,000 organisms 
+				or 
+		number per 1,000,000 gametes 
+	Note: 
+	1)  Mutational rate is affected by genetic constitution of organism.  
+	2)  Most spontaneous errors are corrected:  Only those fixed into 
+		DNA are counted. 
+
+------------------------------
+Slide 50
+Ames Test: A screen for potential mutations caused by chemicals 
+Testing the ability of chemicals to induce mutations 
+
+
+Material:  
+Bacterial culture plate which has no histidine and contains a 
+	small amount of rat liver homogenate (S9 Extract).  
+		Why the liver?  Because some chemicals are converted 
+		by the liver into mutagens. 
+Auxotrophic bacteria 1 x 10 
+9 
+  
+		Bacteria has following properties:  
+		a) His-  means it requires histidine in medium to grow. 
+		b) Mutant for lipopolysaccharide coat, which allows the  
+		     chemical to enter cell. 
+		c)  Mutant for enzyme involved in DNA repair. 
+
+------------------------------
+[img51]Slide 51
+Ames Test: A screen for potential mutations caused by chemicals 
+Testing the ability of chemicals to induce mutations. 
+
+
+Protocol: 
+1)  Incubate for 2 days at 37 
+o 
+ C 
+2)  Compare control plate (no chemicals) to  
+	Experimental plate (plus chemicals 
+		 
+       Control plate is a measure of spontaneous revertants. 
+       Experimental plate is number of revertants. 
+Exp – Control = induce revertants 
+
+------------------------------
+Slide 52
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.14  The Ames test for assaying the potential mutagenicity of chemicals 
+[img52]
+
+
+
+Ames test indicates if  
+chemical is a mutagen. 
+It does not test for ability 
+to cause cancer. 
+A mice strain is used for  
+testing carcinogenesis. 
+
+------------------------------
+Slide 53
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.16  Nucleotide excision repair (NER) of pyrimidine dimer and other damage- 
+	induced distortions of DNA 
+
+
+
+
+DNA repair Mechanisms: 
+Direct Reversal of DNA Damage: 
+Repair by DNA polymerase 
+	proofreading:  3’ to 5’  
+	 
+exonuclease 
+ activity. 
+Photolyase 
+ is in prokaryotes 
+	and lower eukaryotes.  But is 
+	 
+not seen in humans.  
+	Base excision repair:  
+	Repair by  
+glycosylases 
+ -Removal  
+		of bases 
+	Repairs involving excision  
+	of nucleotides: 
+		Nucleotide excision repair system 
+[img53]
+
+
+------------------------------
+Slide 54
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 7.17  Mechanism of mismatch correction repair 
+
+
+[img54]
+
+Repair by methyl- 
+    directed mismatch  
+    repair. 
+
+
+What happens when your DNA is  
+damaged? - Monica Menesini 
+
+
+Each cell of your body has a rate of DNA damage 
+that occurs 10s of 1,000s of times a day.   
+Times 100 trillion cells and your body is having  
+to correct a quintillion (10 
+18 
+) 
+DNA errors per day!!!!!! 
+
+------------------------------
+Slide 55
+Human genetic diseases resulting  
+from DNA replication and Repair errors. 
+[img55][img55]
+
+An individual with xeroderma pigmentosum 
+. 
+
+
+CRISPR 
+
+
+Clustered Regularly Interspaced Short Palindromic Repeats, 
+[img55]
+
+Gene Therapy => ? 
+
+------------------------------

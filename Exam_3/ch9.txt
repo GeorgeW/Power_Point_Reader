@@ -1,0 +1,838 @@
+Slide 1
+Genes are like the story, and DNA is the  
+language that the story is written in 
+Sam Kean 
+
+
+The Molecule of Life 
+
+------------------------------
+[img2]Slide 2
+Now that I have your Attention! 
+Lets learn about – 
+The Genetic Material 
+
+
+“The double helix is indeed a remarkable molecule. Modern man is perhaps 50,000 years old,  
+civilization has existed for scarcely 10,000 years and the United States for only just over 200 years;  
+but DNA and RNA have been around for at least several billion years.  
+All that time the double helix has been there, and active, and yet we are the first creatures on  
+Earth to become aware of its existence.”  
+Francis Crick (1916–2004). 
+
+------------------------------
+[img3]Slide 3
+Genetics  
+Analysis & Principles 
+
+
+Sixth Edition 
+[img3]
+
+Chapter 9 
+Molecular Structure of DNA and RNA 
+
+
+© McGraw-Hill Education. All rights reserved. Authorized only for instructor use in the classroom. No reproduction or further distribution permitted without the prior written consent of McGraw-Hill Education. 
+
+------------------------------
+Slide 4
+In this chapter we will shift our attention to molecular genetics 
+The study of DNA structure and function at the molecular level 
+Recent dramatic advances in techniques and approaches have greatly expanded our understanding of molecular genetics 
+And also of transmission and population genetics 
+To a large extent, our knowledge of genetics comes from our knowledge of the molecular structure of DNA and RNA 
+
+
+Molecular Dynamics of DNA in Water 
+
+------------------------------
+Slide 5
+1869 was a landmark year in genetic research 
+NUCLEIN 
+was discovered by physiological chemist Friedrich Miescher  
+[img5]
+
+In a 1971 essay on the history of nucleic acid research, Erwin Chargaff noted that in a  
+1961 historical account of nineteenth-century science, Charles Darwin was mentioned  
+31 times, Thomas Huxley 14 times, but Miescher not even once.  
+This omission is all the  
+more remarkable given that, as Chargaff also noted, Miescher's discovery of nucleic acids  
+was unique among the discoveries of the four major cellular components  
+(i.e., proteins, lipids, polysaccharides, and nucleic acids)  
+in that it could be "dated precisely... [to] one man, one place, one date." 
+
+
+Furthermore, he suggested it played a role in fertilization 
+: 
+  
+Miescher himself came auspiciously  
+close to uncovering the correct answer. In his publication he wrote:  
+“If one […] wants to assume that a single substance [...] is the specific cause of fertilization,  
+then one should undoubtedly first and foremost consider  
+nuclein 
+.” (Miescher  
+1874b 
+). 
+
+------------------------------
+Slide 6
+DNA is a fine, spirally coiled thread in the nucleus of every  
+living cell that serves as a guidebook so the cells "know"  
+what they're supposed to do.  The strands are so fine you  
+need a high power electron microscopes to see them. 
+The human genome, the genetic code in each human cell contains  
+23 sets of Chromosomes. In that human cell,depending on whether  
+it is from a female or a male, there can be 23 
+or 24 different DNA molecules, respectively. 
+Each DNA molecule can contain from 500 thousand to  
+2.5 million nucleotide pairs.  
+DNA molecules of this size are 1.7 to 8.5 cm  
+long when uncoiled, or about 5 cm on average. 
+Source:  Wow Really?: Science Facts and Foolishness at  
+http://wow-really.blogspot.com/2006/11/your-dna-would-reach-moon.html 
+Note:  This could be on the test! 
+
+
+Your DNA would reach the moon  
+Your DNA would actually stretch  
+to the sun and back 
+ about 4 times! 
+[img6][img6][img6]
+------------------------------
+Slide 7
+You have about 10 trillion cells in your body, so if you stretched the DNA in all the  
+cells out, end to end, they'd  
+stretch over 744 million miles. 
+ The moon is only about  
+250,000 miles away, so all your DNA would stretch to the moon and back almost  
+1500 times. The sun is 93,000,000 miles away, so your DNA would reach there and  
+back about 4 times! Or 30, or 300, or 600 times?  Variation is due to the estimated  
+number of cells in the body. 
+Interestingly, no more than 1.5 percent of the human genome contains DNA  
+that helps "build" us, that "maps for proteins" as it's called. The other 98.5 percent  
+Is either “junk” or control components that we are not sure how it is used,  
+which has accumulated or been modified through the evolutionary process.  
+For example, 90 percent of yeast genes have counterparts  
+in humans, and there are 223 genes in humans that match those in bacteria but aren't  
+found in intermediate organisms! Apparently, these genes jumped directly from  
+bacteria to humans, or vice versa. 
+Source:  Wow Really?: Science Facts and Foolishness at  
+http://wow-really.blogspot.com/2006/11/your-dna-would-reach-moon.html 
+Note:  This could be on the test! 
+
+
+Your DNA would reach the moon  
+Your DNA would actually stretch  
+to the sun and back 
+ about 4 times! 
+[img7][img7]
+------------------------------
+Slide 8
+Molecular Structure of DNA and RNA 
+[img8]
+
+© Kenneth  
+Eward 
+/ 
+BioGrafx 
+/Science Source 
+
+------------------------------
+Slide 9
+9.1 Identification of DNA as the Genetic Material 
+
+
+To fulfill its role, the genetic material must meet several criteria 
+Information: It must contain the information necessary to make an entire organism 
+Transmission: It must be passed from parent to offspring 
+Replication: It must be copied  
+In order to be passed from parent to offspring 
+Variation: It must be capable of changes 
+To account for the known phenotypic variation in each species 
+
+------------------------------
+Slide 10
+9.1 Identification of DNA as the Genetic Material (2 of 2) 
+
+
+The data of many geneticists, including Mendel, were consistent with these four properties 
+However, the chemical nature of the genetic material cannot be identified solely by genetic crosses 
+Indeed, the identification of DNA as the genetic material involved a series of outstanding experimental approaches 
+These will be examined next 
+
+------------------------------
+Slide 11
+Discovery of DNA as the Genetic Material 
+
+
+S strain:  infectious (virulent) and has a polysaccharide coat.  Infection will result in the death of the animal.  Two substrains: IIS and IIIS. 
+R strain:  Noninfectious (avirulent) and has no polysaccharide coat.   
+One out of 10 
+7 
+ S cells will mutate into R, i.e., type IIS into IIR.  However, the reverse is very rare, i.e., only IIR into IIS never into IIIS.  
+
+
+Griffith’s Transformation Experiment:  Used two strains of  
+Streptococcus 
+  
+pneumoniae 
+ (pneumococcus). 
+
+
+
+
+Polysaccharide coat inhibits the killing action of the host’s immune system. 
+  
+
+------------------------------
+Slide 12
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.2  Griffith’s transformation experiment 1928 
+
+
+Type IIR is derived from IIS (very rare conversion). 
+
+
+Agent involved in this transformation was called the “Transforming Principle.” 
+Griffith believed that the Transforming principle was the protein. 
+
+
+
+------------------------------
+Slide 13
+We now know that the Transforming Principle is DNA 
+
+
+In Griffith’s experiment, the heat-killed type IIIS bacteria release their DNA, which was absorbed by the type IIR and by DNA recombination the type IIR bacteria were transformed into type IIIS virulent bacteria. 
+[img13][img13][img13][img13][img13][img13][img13][img13]
+------------------------------
+Slide 14
+How was it determined that the transforming principle was DNA instead of Protein? 
+[img14][img14]
+
+A chemical method (A modern DNA miniprep) was used to isolate chemically pure transforming principle from  
+lyzed 
+ type IIIS bacteria cells. 
+This procedure separates the lysate into various cellular macromolecular components:  lipids, polysaccharides, proteins, DNA and RNA. 
+
+------------------------------
+Slide 15
+The Experiments of Avery, MacLeod and McCarty (1 of 3) 
+
+
+Avery, MacLeod and McCarty realized that Griffith’s observations could be used to identify the genetic material 
+They carried out their experiments in the 1940s 
+At that time, it was known that DNA, RNA, proteins and carbohydrates are the major constituents of living cells 
+
+------------------------------
+Slide 16
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.3   Experiment that showed that DNA, not RNA, was the transforming principle 
+
+
+In 1944, Avery and colleagues isolated DNA and RNA and tested with crude extracts of nucleases. 
+
+
+Demonstrates that the  
+transforming principle  
+is DNA. 
+
+
+However, data was criticized because the DNA was not pure.  It was contaminated with protein. 
+[img16]
+------------------------------
+Slide 17
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.4  Bacteriophage T2 
+[img17]
+
+In 1953, Hershey and Chase used  
+this bacteriophage to  
+confirm that the  
+transforming principle 
+was DNA. 
+
+
+DNA is in the  
+head of the viral 
+particle, which is  
+made of protein.  
+
+
+Bacteriophage T4 with equivalent delivery of DNA 
+
+------------------------------
+Slide 18
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.5  Lytic life cycle of a virulent phage, such as T2 
+[img18]
+------------------------------
+Slide 19
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.6  Hershey-Chase experiment demonstrating DNA is genetic material 
+[img19][img19][img19]
+------------------------------
+Slide 20
+Overview of DNA and RNA Structure 
+
+
+DNA and RNA are large macromolecules with several levels of complexity 
+Nucleotides form the repeating unit of nucleic acids 
+Nucleotides are linked to form a linear strand of RNA or DNA 
+Two strands can interact to form a double helix 
+The 3-D structure of DNA results from folding and bending of the double helix. Interaction of DNA with proteins produces chromosomes within living cells 
+[img20][img20][img20][img20]
+------------------------------
+Slide 21
+9.3 Nucleotide Structure (1 of 2) 
+
+
+The  
+nucleotide 
+ is the repeating structural unit of DNA and RNA 
+It has three components 
+A phosphate group 
+A pentose sugar 
+Ribose in RNA 
+Deoxyribose in DNA 
+A nitrogenous base 
+Refer to Figure 9.5 
+
+------------------------------
+Slide 22
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Figs. 2.7, 2.8  Structures of deoxyribose and ribose, and of the nitrogenous bases in  
+	DNA and RNA 
+[img22][img22]
+
+Chemical composition of  
+DNA and RNA. 
+Called Nucleic acids because: 
+	1) Found in the nucleus. 
+	2) They are acidic. 
+
+
+Nucleotide = 
+	nitrogenous base 
+	pentose sugar 
+	phosphate group 
+
+------------------------------
+Slide 23
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.9  Chemical structures of DNA and RNA 
+[img23]
+
+Deoxyribonucleotide:  
+dAMP   dGMP     
+dCMP    dTMP 
+Ribonucleotide: 
+AMP    GMP     
+CMP   UMP 
+
+------------------------------
+Slide 24
+Terminology of Nucleic Acid Units 
+
+
+Base + sugar is a 
+  
+nucleoside 
+Example 
+Adenine + ribose = Adenosine 
+Adenine + deoxyribose =  
+Deoxyadenosine 
+Base + sugar + phosphate(s) is a 
+  
+nucleotide 
+Example 
+Adenosine monophosphate (AMP) 
+Adenosine diphosphate (ADP) 
+Adenosine triphosphate (ATP) 
+[img24]
+------------------------------
+[img25]Slide 25
+9.4 Structure of a DNA Strand 
+
+
+Nucleotides are covalently linked together by  
+phosphodiester 
+ bonds 
+A phosphate connects the 5’ carbon of one nucleotide to the 3’ carbon of another  
+Therefore the strand has  
+directionality 
+5’ to 3’ 
+In a strand, all sugar molecules are oriented in the same direction 
+The phosphates and sugar molecules form the  
+backbone 
+ of the nucleic acid strand 
+The bases project from the backbone 
+
+------------------------------
+Slide 26
+9.5 Discovery of the Double Helix 
+
+
+In 1953, James Watson and Francis Crick elucidated the double helical structure of DNA 
+The scientific framework for their breakthrough was provided by other scientists including 
+Linus Pauling 
+Rosalind Franklin and Maurice Wilkins 
+Erwin Chargaff 
+
+------------------------------
+Slide 27
+Linus Pauling and the  
+α 
+ helix 
+
+
+In the early 1950s, he proposed that regions of protein can fold into a secondary structure 
+α-helix 
+To elucidate this structure, he built ball-and-stick models 
+[img27]
+
+(a) An  
+α 
+  
+helix in a protein 
+(b): © Tom  
+Hollyman 
+/Science Source 
+
+------------------------------
+Slide 28
+Rosalind Franklin Performed  
+X-ray Diffraction of DNA Fibers (1 of 4) 
+
+
+She worked in the same laboratory as Maurice Wilkins 
+She used X-ray diffraction to study wet fibers of DNA 
+The diffraction pattern is interpreted (using mathematical theory) 
+This can ultimately provide information concerning the structure of the molecule 
+[img28]
+------------------------------
+Slide 29
+Rosalind Franklin Performed  
+X-ray Diffraction of DNA Fibers (3 of 4) 
+
+
+She made marked advances in X-ray diffraction techniques with DNA 
+The diffraction pattern she obtained suggested several structural features of DNA 
+Helical 
+More than one strand 
+10 base pairs per complete turn 
+These findings were instrumental in solving the structure of DNA 
+[img29]
+
+(b) X-ray diffraction of wet DNA fibers 
+(a): © Science Source 
+
+------------------------------
+Slide 30
+Erwin Chargaff’s Experiment 
+
+
+Chargaff pioneered many of the biochemical techniques for the isolation, purification and measurement of nucleic acids from living cells 
+It was known that DNA contained the four bases: A, G, C and T 
+Chargaff analyzed the base composition of DNA isolated from many different species 
+The Goal (Discovery-based science) 
+An analysis of the base composition of DNA in different species may reveal important features about the structure of DNA 
+Chargaff's rules state  
+that DNA from any cell of any organisms should have a 1:1 ratio (base Pair Rule) of pyrimidine and purine bases and, more specifically, that the amount of guanine should be equal to cytosine and the amount of adenine should be equal to  
+thymin 
+[img30]
+------------------------------
+Slide 31
+The Physical Structure of DNA:  
+The Double helix 
+
+
+In 1953, James Watson and Francis Crick published the Double Helix model for the DNA structure.  This model was based on the following DATA: 
+DNA was composed of bases, sugars, and phosphates which were linked as a polynucleotide. 
+The amount of A = T and G = C. 
+The ratio of (A + T)/(G + C) varies with organisms. 
+
+
+
+------------------------------
+Slide 32
+The Physical Structure of DNA:  
+The Double helix 
+[img32]
+
+Figure 2.10 James Watson (left) and Francis Crick (right) in 1993 at a 40th-anniversary celebration  
+of their discovery of the structure of DNA and in 1953 with the model of DNA structure. 
+
+
+Watson describing discovery and DNA Packaging  
+
+------------------------------
+Slide 33
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.11  X-ray diffraction analysis of DNA  
+
+
+Watson & Crick Data cont. 
+	4)  X-ray diffraction analysis indicated: 
+		a)  DNA was in a highly ordered helical structure 
+		     with distinctive regularities of 0.34 nm. 
+
+
+  
+Rosalind Franklin  
+and  
+Maurice H. F. Wilkins  
+(photographed in 1962, the year he received 
+ the Nobel Prize shared with Watson and Crick). 
+
+
+X shape (maltese cross) in the center = helical nature of DNA. 
+  
+The dark crescents at the top and bottom  
+=  0.34-nm distance between the base pairs. 
+
+
+[img33]
+------------------------------
+Slide 34
+Rosalind Franklins” Picture 51 
+[img34][img34][img34]
+------------------------------
+Slide 35
+The Physical Structure of DNA:  
+The Double helix 
+
+
+Watson describing discovery and DNA Packaging  
+
+------------------------------
+Slide 36
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.12  Molecular structure of DNA 
+
+
+Consist of two strands 
+of DNA running  
+anti-parallel: 
+
+
+5     3 
+
+
+3     5 
+
+
+
+
+[img36]
+
+Two strands are twisted together around a common axis 
+There are  
+10 bases  
+and  
+3.4 nm  
+per complete turn of the helix 
+The two strands are  
+antiparallel 
+One runs in the 5’ to 3’ direction and the other 3’ to 5’ 
+The helix is  
+right-handed 
+As it spirals away from you, the helix turns in a clockwise direction 
+
+------------------------------
+Slide 37
+Peter J. Russell,  
+iGenetics 
+: Copyright © Pearson Education, Inc., publishing as Benjamin Cummings. 
+
+
+
+
+
+
+Fig. 2.13  Structures of the complementary base pairs found in DNA 
+[img37]
+
+Weak Hydrogen 
+Bonds between  
+Base pairs: 
+
+
+The double-bonded structure is stabilized by: 
+Hydrogen bonding between  
+complementary bases 
+A bonded to T by two hydrogen bonds 
+C bonded to G by three hydrogen bonds 
+Base stacking 
+Within the DNA, the bases are oriented so that the flattened regions are facing each other (see Figure 9.13a) 
+
+------------------------------
+Slide 38
+Structure of the DNA Double Helix 
+[img38][img38]
+------------------------------
+Slide 39
+The DNA Double Helix 
+
+
+There are two asymmetrical grooves on the outside of the helix 
+Major groove 
+Minor groove  
+Certain proteins can bind within these grooves 
+They can thus interact with a particular sequence of bases 
+[img39][img39]
+
+Ball-and-stick  
+model of DNA 
+
+
+(b) Space-filling  
+model of DNA 
+
+------------------------------
+Slide 40
+DNA Forms Alternative Types of Double Helices 
+
+
+The DNA double helix can form different types of secondary structure 
+The predominant form found in living cells is  
+B DNA  
+However, under certain conditions,  
+Z DNA  
+double helices can form 
+
+------------------------------
+Slide 41
+Comparison of B DNA and Z DNA 
+
+
+(a) Molecular Structures 
+[img41]
+
+B DNA 
+[img41]
+
+Z DNA 
+
+
+(b) Space-filling models 
+[img41]
+
+B DNA 
+[img41]
+
+Z DNA 
+
+
+Illustration, Irving  
+Geis 
+. Image from the Irving  
+Geis 
+ Collection, Howard Hughes Medical Institute. Rights owned by HHMI. Not to be reproduced without permission 
+
+
+B DNA 
+Bases relatively  
+perpendicular 
+ to the central axis 
+Z DNA 
+Bases substantially  
+tilted 
+ relative to the central axis 
+Sugar-phosphate backbone follows a  
+zigzag 
+ pattern 
+
+------------------------------
+Slide 42
+Z DNA function in Cell 
+
+
+Left-handed helix 
+12  
+bp 
+ per turn 
+Its formation is favored by  
+Alternating purine/pyrimidine sequences, at high salt concentrations (e.g. GCGCGCGCGC) 
+Cytosine  
+methylation 
+, at low salt concentrations 
+Negative supercoiling 
+May play a role in transcription and chromosome structure 
+Recognized by cellular proteins 
+May alter chromosome compaction 
+
+------------------------------
+Slide 43
+DNA can Form a Triple Helix 
+
+
+In 1957 Alexander Rich et al. discovered triplex DNA 
+It was formed in vitro using DNA pieces that were made synthetically 
+In the 1980s, it was discovered that natural double- stranded DNA can join with a synthetic strand of DNA to form triplex DNA 
+The synthetic strand binds to the major groove of the naturally-occurring double-stranded DNA 
+Triplex DNA formation is sequence specific 
+T binds to an AT pair in biological DNA 
+C binds to a CG pair in biological DNA 
+Triplex DNA has been implicated in several cellular processes 
+Recombination, inactivation of specific genes 
+Potential tool for therapeutic gene inactivation 
+[img43][img43]
+
+(a) Ribbon model 
+
+
+(b) Example sequence  
+of bases 
+
+------------------------------
+[img44]Slide 44
+RNA Structure 
+
+
+The primary structure of an RNA strand is much like that of a DNA strand 
+Compare Figures 9.16 & 9.7 
+RNA uses Uracil as a base 
+RNA uses Ribose with 2’ OH 
+RNA strands are typically several hundred to several thousand nucleotides in length 
+In RNA synthesis, only one of the two strands of DNA is used as a template 
+[img44]
+
+Which one is RNA and which is DNA? 
+
+------------------------------
+Slide 45
+Structure of RNA Molecules 
+
+
+Although usually single-stranded, RNA molecules can form short double-stranded regions 
+This secondary structure is due to complementary base-pairing 
+A to U and C to G 
+Allows short regions to form a double helix 
+RNA double helices typically 
+Are right-handed 
+Have the A form with 11 to 12 base pairs per turn 
+Different types of RNA secondary structures are possible 
+Refer to Figure 9.17 
+[img45]
+
+(a) Bulge loop 
+
+
+(b) Internal loop 
+
+
+(c) Multibranched  
+loop 
+
+
+(d) Stem loop or 
+Hairpin Loop 
+[img45]
+------------------------------
+Slide 46
+Structure of a Transfer RNA 
+
+
+Many factors contribute to the tertiary structure of RNA 
+Base-pairing and base stacking within the RNA itself 
+Interactions with ions, small molecules and large proteins 
+[img46]
+
+(a) Ribbon Model 
+(b):© Alfred  
+Pasieka 
+/Science Source 
+
+------------------------------
+Slide 47
+Xist 
+: long noncoding RNA (lncRNA) 
+[img47]
+
+The  
+Xist 
+ RNA, a large (17 kb in humans) 
+transcript, is expressed on the inactive  
+chromosome and not on the active one. 
+The transcript remains in the nucleus  
+where it coats the inactive X chromosome.  
+[img47]
+------------------------------
+Slide 48
+End of Presentation 
+
+------------------------------
